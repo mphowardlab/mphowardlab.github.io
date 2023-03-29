@@ -1,20 +1,20 @@
 ---
 ---
 
-$logo-big: 80px;
+$logo-big: 40px;
 $logo: 40px;
 $big-padding: 100px;
-$collapse: 700px;
+$collapse: 300px;
 $limit-title: 400px;
 $sticky: true;
 
 header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: left;
   flex-wrap: wrap;
-  gap: 20px;
-  padding: 20px;
+  gap: 10px;
+  padding: 10px;
   box-shadow: var(--shadow);
 
   @if $sticky {
@@ -32,7 +32,7 @@ header a {
 .home {
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: left;
   gap: 10px;
   flex-basis: 0;
   flex-grow: 1;
@@ -55,7 +55,7 @@ header a {
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
-  text-align: left;
+  text-align: right;
 }
 
 // main title
@@ -63,18 +63,11 @@ header a {
   font-size: var(--large);
 }
 
-// subtitle
-.title > *:last-child {
-  color: var(--gray);
-  font-weight: var(--thin);
-}
-
 .nav-toggle {
   display: none;
   position: relative;
   width: 30px;
   height: 30px;
-  margin: 0;
   color: var(--text);
   -webkit-appearance: none;
   appearance: none;
@@ -99,10 +92,11 @@ header a {
 
 nav {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: right;
+  align-items: right;
   flex-wrap: wrap;
-  gap: 10px;
+  height: 0px;
+  gap: 0px;
   font-family: var(--heading);
   text-transform: uppercase;
 }
@@ -136,10 +130,10 @@ header:not([data-big]) {
 }
 
 header[data-big] {
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   flex-direction: column;
-  padding: $big-padding 20px;
+  padding: 10px;
 
   @if $sticky {
     top: unset;
@@ -156,8 +150,8 @@ header[data-big] {
 
   .title {
     flex-direction: column;
-    align-items: center;
-    text-align: center;
+    align-items: left;
+    text-align: left;
   }
 
   .title > *:first-child {
@@ -165,7 +159,7 @@ header[data-big] {
   }
 
   .title > *:last-child {
-    font-size: var(--large);
+    font-size: var(--xxl);
   }
 }
 
