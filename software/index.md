@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Software
 nav:
   order: 4
   tooltip: Musings and miscellany
