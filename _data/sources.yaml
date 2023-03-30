@@ -1,23 +1,277 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+# 2023
+
+- id: doi:10.1126/sciadv.abq6480
+  image: "images/papers/science-advances-january-2023.png"
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - cytokinesis
+    - cell dissemination
+    - confinement
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+# 2022
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3390/cancers14236009
+  image: "images/papers/cancers.jpg"
+  tags:
+    - single-cell RNAseq
+    - pharmacogenomics
+    - prostate cancer
+
+- id: doi:10.1038/s41586-022-05394-6
+  image: "images/papers/nature.png"
+  tags:
+    - cell migration
+    - extracellular fluid viscosity
+    - cancer metastasis
+      
+- id: doi:10.1038/s41467-022-33683-1
+  image: "images/papers/nature-comm.png"
+  extra-links:
+    - type: source
+      link: https://doi.org/10.5281/zenodo.7105392
+  tags:
+    - cell migration
+    - metastasis
+    - SWELL1
+    - polarized NHE1
+
+- id: doi:10.1021/acs.nanolett.2c01261
+  image: "images/papers/nanoletters-sept-2022.png"
+  tags:
+    - cell migration
+    - stiffness
+    - 3D traction force
+
+- id: doi:10.1038/s41467-022-29988-w
+  image: "images/papers/nature-comm.png"
+  tags:
+    - kidney
+    - morphogenesis
+    - tissues
+    
+- id: doi:10.1101/2022.07.20.500378
+  image: "images/papers/biorxiv.jpg"
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2022.07.20.500378v1.abstract
+  tags:
+  - pharmacogenomics
+  - single-cell RNAseq
+  - NAMPT inhibitor
+  - prostate cancer
+    
+# 2021  
+    
+- id: doi:10.1126/sciadv.abh3457
+  image: "images/papers/science-advances-july-2021.png"
+  tags:
+    - fluid shear stress
+    - TRPM7
+    - intravasation
+    
+- id: doi:10.1158/1538-7445.AM2021-1354
+  image: "images/papers/cancer-research-2021.png"
+  tags:
+    - taxanes
+    - TAK715
+    - prostate cancer
+   
+- id: doi:10.1158/2159-8290.CD-20-0537
+  image: "images/papers/cancer-discovery-may-2021.png"
+  tags:
+    - procarcinogenic microbe
+    - breast tumorigenesis
+    - metastasis
+
+# 2020
+
+- id: doi:10.1016/j.isci.2020.101802
+  image: "images/papers/iscience-december-2020.png"
+  tags:
+    - myosin 10
+    - glioblastoma
+    - metabolic signaling
+
+- id: doi:10.1126/sciadv.aba6505
+  image: "images/papers/science-advances-july-2020.png"
+  tags:
+    - dorsoventral polarity
+    - cell migration
+
+- id: doi:10.1158/1538-7445.MVC2020-PR06
+  image: "images/papers/cancer-research-2020.png"
+  tags:
+    - breast epithelial cells
+    - Bacteroides fragilis
+
+# 2019
+
+- id: doi:10.1083/jcb.201902057
+  image: "images/papers/jcb.jpg"
+  tags:
+    - nuclear influx
+    - confinement
+    - RhoA
+    - motility
+
+- id: doi:10.1096/fj.201900377R
+  image: "images/papers/faseb.png"
+  tags:
+    - extracellular matrix
+    - senescent stem cells
+
+- id: doi:10.1126/sciadv.aaw7243
+  image: "images/papers/science-advances-july-2019.png"
+  tags:
+    - TRPM7
+    - confinement
+    - hydraulic pressure
+
+- id: doi:10.1038/s41551-019-0400-9
+  image: "images/papers/nature-biomedical-engineering.png"
+  tags:
+    - microfluidic assay
+    - breast cancer
+    - metastasis
+
+- id: doi:10.1158/0008-5472.CAN-18-3369
+  image: "images/papers/cancer-research.png"
+  tags:
+    - pancreatic cancer cells
+    - migration
+    - metastasis
+
+# 2018
+
+- id: doi:10.1007/978-3-319-95294-9_8
+  image: "images/papers/biomechanics-in-oncology.png"
+  tags:
+    - osmotic engine
+    - cell blebbing
+    - amoeboid migration
+    - confinement
+
+# 2017
+
+- id: doi:10.1038/onc.2017.164
+  image: "images/papers/oncogene.png"
+  tags:
+    - LKB1
+    - breast cancer
+    - Stat3 inhibition
+
+- id: doi:10.1016/j.arr.2017.05.006
+  image: "images/papers/ageing-research-reviews.png"
+  tags:
+    - vscular aging
+    - vascular rejuvenation
+
+- id: doi:10.1089/ten.tea.2016.0494
+  image: "images/papers/tissue-engineering-a.png"
+  tags:
+    - nanog
+    - contractility
+    - mesenchymal stem cells
+
+- id: doi:10.1038/nrc.2016.123
+  image: "images/papers/nature-reviews-cancer.png"
+  tags:
+    - cell motility
+    - migation
+    - cancer
+    - confined spaces
+
+- id: doi:10.1002/stem.2452
+  image: "images/papers/stem-cells-2017.png"
+  tags:
+    - nanog
+    - myogenic differentiation
+    - senescent stem cells
+
+# 2014
+
+- id: doi:10.1038/mt.2014.103
+  image: "images/papers/molecular-therapy.png"
+  tags:
+    - lentiviral arrays
+    - differentiation
+    - dynamic monitoring
+
+# 2013
+
+- id: doi:10.1016/j.biomaterials.2013.08.063
+  image: "images/papers/biomaterials.png"
+  tags:
+    - cationic polymer
+    - nanocomplex
+    - gene delivery
+
+- id: doi:10.1089/ten.teb.2012.0422
+  image: "images/papers/tissue-engineering-b.png"
+  tags:
+    - hair follicle
+    - multipotent stem cells
+    - regenerative medicine
+
+- id: doi:10.1007/978-1-62703-417-3_5
+  image: "images/papers/emerging-trends.png"
+  tags:
+    - hair follicle
+    - stem cells
+    - gene therapy
+
+# 2012
+
+- id: doi:10.1002/stem.1223
+  image: "images/papers/nanog-reverses.png"
+  tags:
+    - Nanog
+    - Organismal Aging
+    - mesenchymal stem cells
+
+- id: doi:10.1093/cvr/cvs253
+  image: "images/papers/functional-vascular.png"
+  tags:
+    - smooth muscle cells
+    - human induced pluripotent stem cells
+
+- id: doi:10.1016/j.scr.2011.07.003
+  image: "images/papers/clonal-multipotency.png"
+  tags:
+    - clonal multipotency
+    - human hair follicle
+    - mesenchymal stem cells
+
+# 2008
+
+- id: doi:10.1016/j.jbiotec.2008.07.600
+  image: "images/papers/biotransformations.png"
+  tags:
+    - biotransformations
+    - natural compounds
+    - derivatives
+
+# 2007
+
+- id: doi:10.1016/j.jtemb.2007.09.004
+  image: "images/papers/trace-elements.png"
+  tags:
+    - human cerebrospinal fluid
+    - capillary electrophoresis
+    - manganese species
+
+- id: doi:10.1002/elps.200600686
+  image: "images/papers/electrophoresis.png"
+  tags:
+    - human cerebrospinal fluid
+    - coupled plasma
+    - manganese species
+
+- id: doi:10.1039/B610639K
+  image: "images/papers/manganese.jpeg"
+  tags:
+    - cerebrospinal fluid
+    - plasma mass spectrometry
+    - manganese species
+  
+    

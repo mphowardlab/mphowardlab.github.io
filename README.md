@@ -1,7 +1,6 @@
+<h1 align="center">Mistriotis Lab Website</h1>
 
-# mphowardlab's Website
 
-Visit **[mphowardlab.github.io](https://mphowardlab.github.io)** 🚀
-
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+This website was generated from Greene Lab's [`lab-website-template`](https://github.com/greenelab/lab-website-template).
+See the readme for documentation on how to work with this site.
 

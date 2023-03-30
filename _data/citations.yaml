@@ -1,113 +1,778 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY
+# GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1126/sciadv.abq6480
+  title: Cytokinesis machinery promotes cell dissociation from collectively migrating
+    strands in confinement
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+  - Robert A. Law
+  - Alexander Kiepas
+  - Habben E. Desta
+  - "Emiliano Perez Ipi\xF1a"
+  - Maria Parlani
+  - Se Jong Lee
+  - Christopher L. Yankaskas
+  - Runchen Zhao
+  - Panagiotis Mistriotis
+  - Nianchao Wang
+  - Zhizhan Gu
+  - Petr Kalab
+  - Peter Friedl
+  - Brian A. Camley
+  - Konstantinos Konstantopoulos
+  publisher: Science Advances
+  date: '2023-01-13'
+  link: https://doi.org/grn9r9
+  image: images/papers/science-advances-january-2023.png
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - cytokinesis
+  - cell dissemination
+  - confinement
+- id: doi:10.3390/cancers14236009
+  title: Integrating Pharmacogenomics Data-Driven Computational Drug Prediction with
+    Single-Cell RNAseq to Demonstrate the Efficacy of a NAMPT Inhibitor against Aggressive,
+    Taxane-Resistant, and Stem-like Cells in Lethal Prostate Cancer
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Suman Mazumder
+  - Taraswi Mitra Ghosh
+  - Ujjal K. Mukherjee
+  - Sayak Chakravarti
+  - Farshad Amiri
+  - Razan S. Waliagha
+  - Farnaz Hemmati
+  - Panagiotis Mistriotis
+  - Salsabil Ahmed
+  - Isra Elhussin
+  - Ahmad-Bin Salam
+  - Windy Dean-Colomb
+  - Clayton Yates
+  - Robert D. Arnold
+  - Amit K. Mitra
+  publisher: Cancers
+  date: '2022-12-06'
+  link: https://doi.org/grmzpq
+  image: images/papers/cancers.jpg
+  tags:
+  - single-cell RNAseq
+  - pharmacogenomics
+  - prostate cancer
+- id: doi:10.1038/s41586-022-05394-6
+  title: Extracellular fluid viscosity enhances cell migration and cancer dissemination
+  authors:
+  - Kaustav Bera
+  - Alexander Kiepas
+  - "In\xEAs Godet"
+  - Yizeng Li
+  - Pranav Mehta
+  - Brent Ifemembi
+  - Colin D. Paul
+  - Anindya Sen
+  - Selma A. Serra
+  - Konstantin Stoletov
+  - Jiaxiang Tao
+  - Gabriel Shatkin
+  - Se Jong Lee
+  - Yuqi Zhang
+  - Adrianna Boen
+  - Panagiotis Mistriotis
+  - Daniele M. Gilkes
+  - John D. Lewis
+  - Chen-Ming Fan
+  - Andrew P. Feinberg
+  - Miguel A. Valverde
+  - Sean X. Sun
+  - Konstantinos Konstantopoulos
+  publisher: Nature
+  date: '2022-11-02'
+  link: https://doi.org/gq6ncw
+  image: images/papers/nature.png
+  tags:
+  - cell migration
+  - extracellular fluid viscosity
+  - cancer metastasis
+  extra-links:
+  - type: source
+    link: https://doi.org/10.1038/s41586-022-05394-6
+- id: doi:10.1038/s41467-022-33683-1
+  title: Polarized NHE1 and SWELL1 regulate migration direction, efficiency and metastasis
+  authors:
+  - Yuqi Zhang
+  - Yizeng Li
+  - Keyata N. Thompson
+  - Konstantin Stoletov
+  - Qinling Yuan
+  - Kaustav Bera
+  - Se Jong Lee
+  - Runchen Zhao
+  - Alexander Kiepas
+  - Yao Wang
+  - Panagiotis Mistriotis
+  - Selma A. Serra
+  - John D. Lewis
+  - Miguel A. Valverde
+  - Stuart S. Martin
+  - Sean X. Sun
+  - Konstantinos Konstantopoulos
+  publisher: Nature Communications
+  date: '2022-10-17'
+  link: https://doi.org/gq4vn6
+  tags:
+  - cell migration
+  - metastasis
+  - SWELL1
+  - polarized NHE1
+  extra-links:
+  - type: source
+    link: https://doi.org/10.5281/zenodo.7105392
+  image: images/papers/nature-comm.png
+- id: doi:10.1021/acs.nanolett.2c01261
+  title: Migration and 3D Traction Force Measurements inside Compliant Microchannels
+  authors:
+  - Alexandros Afthinos
+  - Kaustav Bera
+  - Junjie Chen
+  - Altug Ozcelikkale
+  - Alice Amitrano
+  - Mohammad Ikbal Choudhury
+  - Randy Huang
+  - Pavlos Pachidis
+  - Panagiotis Mistriotis
+  - Yun Chen
+  - Konstantinos Konstantopoulos
+  publisher: Nano Letters
+  date: '2022-09-15'
+  link: https://doi.org/gqvg7r
+  image: images/papers/nanoletters-sept-2022.png
+  tags:
+  - cell migration
+  - stiffness
+  - 3D traction force
+- id: doi:10.1038/s41467-022-29988-w
+  title: Kidney epithelial cells are active mechano-biological fluid pumps
+  authors:
+  - Mohammad Ikbal Choudhury
+  - Yizeng Li
+  - Panagiotis Mistriotis
+  - Ana Carina N. Vasconcelos
+  - Eryn E. Dixon
+  - Jing Yang
+  - Morgan Benson
+  - Debonil Maity
+  - Rebecca Walker
+  - Leigha Martin
+  - Fatima Koroma
+  - Feng Qian
+  - Konstantinos Konstantopoulos
+  - Owen M. Woodward
+  - Sean X. Sun
+  publisher: Nature Communications
+  date: '2022-04-28'
+  link: https://doi.org/gp57rr
+  tags:
+  - kidney
+  - morphogenesis
+  - tissues
+  image: images/papers/nature-comm.png
+- id: doi:10.1101/2022.07.20.500378
+  title: Integrating pharmacogenomics data-driven prediction with bulk and single-cell
+    RNAseq to demonstrate the efficacy of an NAMPT inhibitor against aggressive, taxane-resistant,
+    and stem-like cells in lethal prostate cancer
+  authors:
+  - Suman Mazumder
+  - Taraswi Mitra Ghosh
+  - Ujjal K. Mukherjee
+  - Sayak Chakravarti
+  - Farshad Amiri
+  - Farnaz Hemmati
+  - Panagiotis Mistriotis
+  - Isra Elhussin
+  - Ahmad-bin Salam
+  - Windy Dean-Colomb
+  - Feng Li
+  - Clayton Yates
+  - Robert D. Arnold
+  - Amit K. Mitra
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  date: '2022-07-22'
+  link: https://doi.org/gqrhgp
+  image: images/papers/biorxiv.jpg
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2022.07.20.500378v1.abstract
+  tags:
+  - pharmacogenomics
+  - single-cell RNAseq
+  - NAMPT inhibitor
+  - prostate cancer
+- id: doi:10.1126/sciadv.abh3457
+  title: The fluid shear stress sensor TRPM7 regulates tumor cell intravasation
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Christopher L. Yankaskas
+  - Kaustav Bera
+  - Konstantin Stoletov
+  - Selma A. Serra
+  - Julia Carrillo-Garcia
+  - Soontorn Tuntithavornwat
+  - Panagiotis Mistriotis
+  - John D. Lewis
+  - Miguel A. Valverde
+  - Konstantinos Konstantopoulos
+  publisher: Science Advances
+  date: '2021-07-09'
+  link: https://doi.org/gn2797
+  tags:
+  - fluid shear stress
+  - TRPM7
+  - intravasation
+  image: images/papers/science-advances-july-2021.png
+- id: doi:10.1158/1538-7445.AM2021-1354
+  title: 'Abstract 1354: Deciphering the functional basis of synergy between taxanes
+    and TAK715: A novel repurposed drug candidate in treatment-refractory aggressive
+    prostate cancer'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Sayak Chakravarti
+  - Suman Mazumder
+  - Farnaz Hemmati
+  - Farshad Amiri
+  - Taraswi Mitra Ghosh
+  - Ujjal Kumar Mukherjee
+  - Panagiotis Mistriotis
+  - Timothy Moore
+  - Robert Arnold
+  - Clayton Yates
+  - Amit Kumar Mitra
+  publisher: Cancer Research
+  date: '2021-07-01'
+  link: https://doi.org/gqn756
+  image: images/papers/cancer-research-2021.png
+  tags:
+  - taxanes
+  - TAK715
+  - prostate cancer
+- id: doi:10.1158/2159-8290.CD-20-0537
+  title: "A Procarcinogenic Colon Microbe Promotes Breast Tumorigenesis and Metastatic\
+    \ Progression and Concomitantly Activates Notch and \u03B2-Catenin Axes"
+  authors:
+  - Sheetal Parida
+  - Shaoguang Wu
+  - Sumit Siddharth
+  - Guannan Wang
+  - Nethaji Muniraj
+  - Arumugam Nagalingam
+  - Christina Hum
+  - Panagiotis Mistriotis
+  - Haiping Hao
+  - C. Conover Talbot
+  - Konstantinos Konstantopoulos
+  - Kathleen L. Gabrielson
+  - Cynthia L. Sears
+  - Dipali Sharma
+  publisher: Cancer Discovery
+  date: '2021-01-06'
+  link: https://doi.org/ghs88t
+  image: images/papers/cancer-discovery-may-2021.png
+  tags:
+  - procarcinogenic microbe
+  - breast tumorigenesis
+  - metastasis
+- id: doi:10.1016/j.isci.2020.101802
+  title: Myosin 10 Regulates Invasion, Mitosis, and Metabolic Signaling in Glioblastoma
+  authors:
+  - Rajappa S. Kenchappa
+  - Panagiotis Mistriotis
+  - Emily Wisniewski
+  - Santanu Bhattacharya
+  - Tanmay Kulkarni
+  - Rita West
+  - Amanda Luu
+  - Meghan Conlon
+  - Ernest Heimsath
+  - James F. Crish
+  - Hannah S. Picariello
+  - Athanassios Dovas
+  - Natanael Zarco
+  - Montserrat Lara-Velazquez
+  - "Alfredo Qui\xF1ones-Hinojosa"
+  - John A. Hammer
+  - Debrabrata Mukhopadhyay
+  - Richard E. Cheney
+  - Konstantinos Konstantopoulos
+  - Peter Canoll
+  - Steven S. Rosenfeld
+  publisher: iScience
+  date: '2020-12-01'
+  link: https://doi.org/gqn75p
+  image: images/papers/iscience-december-2020.png
+  tags:
+  - myosin 10
+  - glioblastoma
+  - metabolic signaling
+- id: doi:10.1126/sciadv.aba6505
+  title: Dorsoventral polarity directs cell responses to migration track geometries
+  authors:
+  - Emily O. Wisniewski
+  - Panagiotis Mistriotis
+  - Kaustav Bera
+  - Robert A. Law
+  - Jitao Zhang
+  - Milos Nikolic
+  - Michael Weiger
+  - Maria Parlani
+  - Soontorn Tuntithavornwat
+  - Alexandros Afthinos
+  - Runchen Zhao
+  - Denis Wirtz
+  - Petr Kalab
+  - Giuliano Scarcelli
+  - Peter Friedl
+  - Konstantinos Konstantopoulos
+  publisher: Science Advances
+  date: '2020-07-31'
+  link: https://doi.org/gpxpmj
+  image: images/papers/science-advances-july-2020.png
+  tags:
+  - dorsoventral polarity
+  - cell migration
+- id: doi:10.1158/1538-7445.MVC2020-PR06
+  title: "Abstract PR06: <i>Bacteroides fragilis</i>: A potential pathogen orchestrating\
+    \ EMT and stemness in breast epithelial cells via concomitant activation of Notch\
+    \ and \u03B2catenin axes"
+  authors:
+  - Sheetal Parida
+  - Shaoguang Wu
+  - Nethaji Muniraj
+  - Sumit Siddharth
+  - Arumugam Nagaligam
+  - Christina Hum
+  - Panagiotis Mistriotis
+  - Konstantinos Konstantopoulos
+  - Cynthia Sears
+  - Dipali Sharma
+  publisher: Cancer Research
+  date: '2020-04-15'
+  link: https://doi.org/ghv773
+  image: images/papers/cancer-research-2020.png
+  tags:
+  - breast epithelial cells
+  - Bacteroides fragilis
+- id: doi:10.1083/jcb.201902057
+  title: Confinement hinders motility by inducing RhoA-mediated nuclear influx, volume
+    expansion, and blebbing
+  authors:
+  - Panagiotis Mistriotis
+  - Emily O. Wisniewski
+  - Kaustav Bera
+  - Jeremy Keys
+  - Yizeng Li
+  - Soontorn Tuntithavornwat
+  - Robert A. Law
+  - Nicolas A. Perez-Gonzalez
+  - Eda Erdogmus
+  - Yuqi Zhang
+  - Runchen Zhao
+  - Sean X. Sun
+  - Petr Kalab
+  - Jan Lammerding
+  - Konstantinos Konstantopoulos
+  publisher: Journal of Cell Biology
+  date: '2019-11-05'
+  link: https://doi.org/gg79rf
+  image: images/papers/jcb.jpg
+  tags:
+  - nuclear influx
+  - confinement
+  - RhoA
+  - motility
+- id: doi:10.1096/fj.201900377R
+  title: Restoring extracellular matrix synthesis in senescent stem cells
+  authors:
+  - Na Rong
+  - Panagiotis Mistriotis
+  - Xiaoyan Wang
+  - Georgios Tseropoulos
+  - Nika Rajabian
+  - Yali Zhang
+  - Jianmin Wang
+  - Song Liu
+  - Stelios T. Andreadis
+  publisher: The FASEB Journal
+  date: '2019-07-09'
+  link: https://doi.org/gf6k4c
+  image: images/papers/faseb.png
+  tags:
+  - extracellular matrix
+  - senescent stem cells
+- id: doi:10.1126/sciadv.aaw7243
+  title: 'Cell sensing and decision-making in confinement: The role of TRPM7 in a
+    tug of war between hydraulic pressure and cross-sectional area'
+  authors:
+  - Runchen Zhao
+  - Alexandros Afthinos
+  - Tian Zhu
+  - Panagiotis Mistriotis
+  - Yizeng Li
+  - Selma A. Serra
+  - Yuqi Zhang
+  - Christopher L. Yankaskas
+  - Shuyu He
+  - Miguel A. Valverde
+  - Sean X. Sun
+  - Konstantinos Konstantopoulos
+  publisher: Science Advances
+  date: '2019-07-05'
+  link: https://doi.org/ggd5t6
+  image: images/papers/science-advances-july-2019.png
+  tags:
+  - TRPM7
+  - confinement
+  - hydraulic pressure
+- id: doi:10.1038/s41551-019-0400-9
+  title: A microfluidic assay for the quantification of the metastatic propensity
+    of breast cancer specimens
+  authors:
+  - Christopher L. Yankaskas
+  - Keyata N. Thompson
+  - Colin D. Paul
+  - Michele I. Vitolo
+  - Panagiotis Mistriotis
+  - Ankit Mahendra
+  - Vivek K. Bajpai
+  - Daniel J. Shea
+  - Kristen M. Manto
+  - Andreas C. Chai
+  - Navin Varadarajan
+  - Aikaterini Kontrogianni-Konstantopoulos
+  - Stuart S. Martin
+  - Konstantinos Konstantopoulos
+  publisher: Nature Biomedical Engineering
+  date: '2019-05-06'
+  link: https://doi.org/gngd8n
+  image: images/papers/nature-biomedical-engineering.png
+  tags:
+  - microfluidic assay
+  - breast cancer
+  - metastasis
+- id: doi:10.1158/0008-5472.CAN-18-3369
+  title: "A Direct Podocalyxin\u2013Dynamin-2 Interaction Regulates Cytoskeletal Dynamics\
+    \ to Promote Migration and Metastasis in Pancreatic Cancer Cells"
+  authors:
+  - Bin Sheng Wong
+  - Daniel J. Shea
+  - Panagiotis Mistriotis
+  - Soontorn Tuntithavornwat
+  - Robert A. Law
+  - Jake M. Bieber
+  - Lei Zheng
+  - Konstantinos Konstantopoulos
+  publisher: Cancer Research
+  date: '2019-06-01'
+  link: https://doi.org/gqn4z4
+  image: images/papers/cancer-research.png
+  tags:
+  - pancreatic cancer cells
+  - migration
+  - metastasis
+- id: doi:10.1007/978-3-319-95294-9_8
+  title: 'Exposing Cell-Itary Confinement: Understanding the Mechanisms of Confined
+    Single Cell Migration'
+  authors:
+  - Bin Sheng Wong
+  - Panagiotis Mistriotis
+  - Konstantinos Konstantopoulos
+  publisher: Advances in Experimental Medicine and Biology
+  date: '2018-01-01'
+  link: https://doi.org/gqn4z3
+  image: images/papers/biomechanics-in-oncology.png
+  tags:
+  - osmotic engine
+  - cell blebbing
+  - amoeboid migration
+  - confinement
+- id: doi:10.1038/onc.2017.164
+  title: Activation of tumor suppressor LKB1 by honokiol abrogates cancer stem-like
+    phenotype in breast cancer via inhibition of oncogenic Stat3
+  authors:
+  - S Sengupta
+  - A Nagalingam
+  - N Muniraj
+  - M Y Bonner
+  - P Mistriotis
+  - A Afthinos
+  - P Kuppusamy
+  - D Lanoue
+  - S Cho
+  - P Korangath
+  - M Shriver
+  - A Begum
+  - V F Merino
+  - C-Y Huang
+  - J L Arbiser
+  - W Matsui
+  - "B Gy\u0151rffy"
+  - K Konstantopoulos
+  - S Sukumar
+  - P A Marignani
+  - N K Saxena
+  - D Sharma
+  publisher: Oncogene
+  date: '2017-06-05'
+  link: https://doi.org/gcfv7d
+  image: images/papers/oncogene.png
+  tags:
+  - LKB1
+  - breast cancer
+  - Stat3 inhibition
+- id: doi:10.1016/j.arr.2017.05.006
+  title: 'Vascular aging: Molecular mechanisms and potential treatments for vascular
+    rejuvenation'
+  authors:
+  - Panagiotis Mistriotis
+  - Stelios T. Andreadis
+  publisher: Ageing Research Reviews
+  date: '2017-08-01'
+  link: https://doi.org/gmqtfz
+  image: images/papers/ageing-research-reviews.png
+  tags:
+  - vscular aging
+  - vascular rejuvenation
+- id: doi:10.1089/ten.tea.2016.0494
+  title: NANOG Restores Contractility of Mesenchymal Stem Cell-Based Senescent Microtissues
+  authors:
+  - Aref Shahini
+  - Panagiotis Mistriotis
+  - Mohammadnabi Asmani
+  - Ruogang Zhao
+  - Stelios T. Andreadis
+  publisher: Tissue Engineering Part A
+  date: '2017-06-01'
+  link: https://doi.org/gbg76z
+  image: images/papers/tissue-engineering-a.png
+  tags:
+  - nanog
+  - contractility
+  - mesenchymal stem cells
+- id: doi:10.1038/nrc.2016.123
+  title: 'Cancer cell motility: lessons from migration in confined spaces'
+  authors:
+  - Colin D. Paul
+  - Panagiotis Mistriotis
+  - Konstantinos Konstantopoulos
+  publisher: Nature Reviews Cancer
+  date: '2016-12-02'
+  link: https://doi.org/f9gw9c
+  image: images/papers/nature-reviews-cancer.png
+  tags:
+  - cell motility
+  - migation
+  - cancer
+  - confined spaces
+- id: doi:10.1002/stem.2452
+  title: NANOG Reverses the Myogenic Differentiation Potential of Senescent Stem Cells
+    by Restoring ACTIN Filamentous Organization and SRF-Dependent Gene Expression
+  authors:
+  - Panagiotis Mistriotis
+  - Vivek K. Bajpai
+  - Xiaoyan Wang
+  - Na Rong
+  - Aref Shahini
+  - Mohammadnabi Asmani
+  - Mao-Shih Liang
+  - Jianmin Wang
+  - Pedro Lei
+  - Song Liu
+  - Ruogang Zhao
+  - Stelios T. Andreadis
+  publisher: Stem Cells
+  date: '2016-07-11'
+  link: https://doi.org/f9kpb4
+  image: images/papers/stem-cells-2017.png
+  tags:
+  - nanog
+  - myogenic differentiation
+  - senescent stem cells
+- id: doi:10.1038/mt.2014.103
+  title: Lentiviral Arrays for Live-cell Dynamic Monitoring of Gene and Pathway Activity
+    During Stem Cell Differentiation
+  authors:
+  - Roshan M Padmashali
+  - Panagiotis Mistriotis
+  - Mao-shih Liang
+  - Stelios T Andreadis
+  publisher: Molecular Therapy
+  date: '2014-11-01'
+  link: https://doi.org/f6nb6k
+  image: images/papers/molecular-therapy.png
+  tags:
+  - lentiviral arrays
+  - differentiation
+  - dynamic monitoring
+- id: doi:10.1016/j.biomaterials.2013.08.063
+  title: "Poly(ethylene glycol)-block-cationic polylactide nanocomplexes of\_differing\
+    \ charge density for gene delivery"
+  authors:
+  - Chih-Kuang Chen
+  - Charles H. Jones
+  - Panagiotis Mistriotis
+  - Yun Yu
+  - Xiaoni Ma
+  - Anitha Ravikrishnan
+  - Ming Jiang
+  - Stelios T. Andreadis
+  - Blaine A. Pfeifer
+  - Chong Cheng
+  publisher: Biomaterials
+  date: '2013-12-01'
+  link: https://doi.org/f5hcrx
+  image: images/papers/biomaterials.png
+  tags:
+  - cationic polymer
+  - nanocomplex
+  - gene delivery
+- id: doi:10.1089/ten.teb.2012.0422
+  title: 'Hair Follicle: A Novel Source of Multipotent Stem Cells for Tissue Engineering
+    and Regenerative Medicine'
+  authors:
+  - Panagiotis Mistriotis
+  - Stelios T. Andreadis
+  publisher: 'Tissue Engineering Part B: Reviews'
+  date: '2013-08-01'
+  link: https://doi.org/f429xx
+  image: images/papers/tissue-engineering-b.png
+  tags:
+  - hair follicle
+  - multipotent stem cells
+  - regenerative medicine
+- id: doi:10.1007/978-1-62703-417-3_5
+  title: 'Hair Follicle: A Novel Source of Stem Cells for Cell and Gene Therapy'
+  authors:
+  - Panagiotis Mistriotis
+  - Stelios T. Andreadis
+  publisher: Emerging Trends in Cell and Gene Therapy
+  date: '2013-01-01'
+  link: https://doi.org/gqn4wq
+  image: images/papers/emerging-trends.png
+  tags:
+  - hair follicle
+  - stem cells
+  - gene therapy
+- id: doi:10.1002/stem.1223
+  title: Nanog Reverses the Effects of Organismal Aging on Mesenchymal Stem Cell Proliferation
+    and Myogenic Differentiation Potential
+  authors:
+  - Juhee Han
+  - Panagiotis Mistriotis
+  - Pedro Lei
+  - Dan Wang
+  - Song Liu
+  - Stelios T. Andreadis
+  publisher: STEM CELLS
+  date: '2012-11-27'
+  link: https://doi.org/f4dt9w
+  image: images/papers/nanog-reverses.png
+  tags:
+  - Nanog
+  - Organismal Aging
+  - mesenchymal stem cells
+- id: doi:10.1093/cvr/cvs253
+  title: Functional vascular smooth muscle cells derived from human induced pluripotent
+    stem cells via mesenchymal stem cell intermediates
+  authors:
+  - Vivek K. Bajpai
+  - Panagiotis Mistriotis
+  - Yuin-Han Loh
+  - George Q. Daley
+  - Stelios T. Andreadis
+  publisher: Cardiovascular Research
+  date: '2012-08-31'
+  link: https://doi.org/gcp35r
+  image: images/papers/functional-vascular.png
+  tags:
+  - smooth muscle cells
+  - human induced pluripotent stem cells
+- id: doi:10.1016/j.scr.2011.07.003
+  title: Clonal multipotency and effect of long-term in vitro expansion on differentiation
+    potential of human hair follicle derived mesenchymal stem cells
+  authors:
+  - Vivek K. Bajpai
+  - Panagiotis Mistriotis
+  - Stelios T. Andreadis
+  publisher: Stem Cell Research
+  date: '2012-01-01'
+  link: https://doi.org/fnbvbg
+  image: images/papers/clonal-multipotency.png
+  tags:
+  - clonal multipotency
+  - human hair follicle
+  - mesenchymal stem cells
+- id: doi:10.1016/j.jbiotec.2008.07.600
+  title: 'Biotransformations of natural compounds: Structural and functional diversity
+    of novel derivatives'
+  authors:
+  - Epameinondas Xanthakis
+  - Panos Mistriotis
+  - Haralampos Stamatis
+  - Sophia Magkouta
+  - Heleni Loutrari
+  - Charis Roussos
+  - Fragiskos Kolisis
+  publisher: Journal of Biotechnology
+  date: '2008-10-01'
+  link: https://doi.org/cntb8p
+  tags:
+  - biotransformations
+  - natural compounds
+  - derivatives
+  image: images/papers/biotransformations.png
+- id: doi:10.1016/j.jtemb.2007.09.004
+  title: Manganese species from human serum, cerebrospinal fluid analyzed by size
+    exclusion chromatography-, capillary electrophoresis coupled to inductively coupled
+    plasma mass spectrometry
+  authors:
+  - Bernhard Michalke
+  - Achim Berthele
+  - Panos Mistriotis
+  - "Maria Ochsenk\xFChn-Petropoulou"
+  - Stefan Halbach
+  publisher: Journal of Trace Elements in Medicine and Biology
+  date: '2007-12-01'
+  link: https://doi.org/fmvg7w
+  tags:
+  - human cerebrospinal fluid
+  - capillary electrophoresis
+  - manganese species
+  image: images/papers/trace-elements.png
+- id: doi:10.1002/elps.200600686
+  title: Manganese speciation in human cerebrospinal fluid using CZE coupled to inductively
+    coupled plasma MS
+  authors:
+  - Bernhard Michalke
+  - Achim Berthele
+  - Panos Mistriotis
+  - "Maria Ochsenk\xFChn-Petropoulou"
+  - Stefan Halbach
+  publisher: ELECTROPHORESIS
+  date: '2007-05-01'
+  link: https://doi.org/cqkxbb
+  tags:
+  - human cerebrospinal fluid
+  - coupled plasma
+  - manganese species
+  image: images/papers/electrophoresis.png
+- id: doi:10.1039/B610639K
+  title: Size characterization of manganese species from human serum and cerebrospinal
+    fluid using size exclusion chromatography coupled to inductively coupled plasma
+    mass spectrometry
+  authors:
+  - Bernhard Michalke
+  - Stefan Halbach
+  - Achim Berthele
+  - Panos Mistritiotis
+  - "Maria Ochsenk\xFChn-Petropoulou"
+  publisher: J. Anal. At. Spectrom.
+  date: '2007-01-01'
+  link: https://doi.org/c8vn33
+  image: images/papers/manganese.jpeg
+  tags:
+  - cerebrospinal fluid
+  - plasma mass spectrometry
+  - manganese species

@@ -1,81 +1,74 @@
 ---
+title: Home
 ---
 
-# mphowardlab's Website
+# MPHoward Laboratory at Auburn University
 
-An engaging 1-3 sentence description of your lab.
+{:.center}
+❝  ❞
+
+
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/group-photos/2021/Group-photo-2021.jpg" %}
 
 {% include section.html %}
 
-## Highlights
+# Highlights
 
 {% capture text %}
+Our research lies at the interface of engineering, biophysics, cell & molecular biology and biochemistry with applications in aging, vascular diseases and cancer metastasis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[Learn more about our research &nbsp;→](research)
+{:.center}
+{% endcapture %}
 
 {%
-  include button.html
+  include feature.html
+  image="images/research/research_schematic.png"
   link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  headline="Our Research"
   text=text
 %}
 
 {% capture text %}
+Our lab is made up of a highly engaged and collaborative team of researchers. Learn more about the members of Mistriotis Lab.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="tools"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
+[Meet our team &nbsp;→](team)
+{:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
+  image="images/group-photos/2022/Group-photo-2022.jpg"
+  link="team"
+  headline="Our Team"
   text=text
 %}
 
 {% capture text %}
+What have we been up to? Check out the latest news from the Mistrotis Lab.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
+[News &nbsp;→](news)
+{:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/auburn/Auburn_campus4.jpg"
+  link="news"
+  headline="Our News"
   text=text
 %}
+
+{:.center}
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html %}
+
