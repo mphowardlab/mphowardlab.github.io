@@ -49,7 +49,7 @@ jobs:
           python -m pip install --upgrade --requirement ./auto-cite/requirements.txt
 
       - name: Build updated citations
-        run: python _cite/cite.py
+        run: python auto-cite/auto-cite.py
         timeout-minutes: 15
 
       - name: Check if citations changed
