@@ -1,0 +1,28 @@
+.background {
+  position: relative;
+  z-index: 1;
+}
+.background:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-image: var(--background);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  opacity: 0.1;
+  z-index: -1;
+}
+.background[data-dark=false] {
+  background: #0C2340;
+  color: #0C2340;
+}
+.background[data-dark=true] {
+  background: #0C2340;
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=background.css.map */
