@@ -1,4 +1,4 @@
-# GENERATED AUTOMATICALLY, DO NOT EDIT
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1126/sciadv.abq6480
   title: Cytokinesis machinery promotes cell dissociation from collectively migrating
@@ -20,13 +20,15 @@
   - Brian A. Camley
   - Konstantinos Konstantopoulos
   publisher: Science Advances
-  date: '2023-01-13'
+  date: '2023-01-11'
   link: https://doi.org/grn9r9
   image: images/papers/science-advances-january-2023.png
   tags:
   - cytokinesis
   - cell dissemination
   - confinement
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/cancers14236009
   title: Integrating Pharmacogenomics Data-Driven Computational Drug Prediction with
     Single-Cell RNAseq to Demonstrate the Efficacy of a NAMPT Inhibitor against Aggressive,
@@ -55,6 +57,8 @@
   - single-cell RNAseq
   - pharmacogenomics
   - prostate cancer
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41586-022-05394-6
   title: Extracellular fluid viscosity enhances cell migration and cancer dissemination
   authors:
@@ -89,9 +93,8 @@
   - cell migration
   - extracellular fluid viscosity
   - cancer metastasis
-  extra-links:
-  - type: source
-    link: https://doi.org/10.1038/s41586-022-05394-6
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-022-33683-1
   title: Polarized NHE1 and SWELL1 regulate migration direction, efficiency and metastasis
   authors:
@@ -115,15 +118,17 @@
   publisher: Nature Communications
   date: '2022-10-17'
   link: https://doi.org/gq4vn6
+  image: images/papers/nature-comm.png
+  extra-links:
+  - type: source
+    link: https://doi.org/10.5281/zenodo.7105392
   tags:
   - cell migration
   - metastasis
   - SWELL1
   - polarized NHE1
-  extra-links:
-  - type: source
-    link: https://doi.org/10.5281/zenodo.7105392
-  image: images/papers/nature-comm.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acs.nanolett.2c01261
   title: Migration and 3D Traction Force Measurements inside Compliant Microchannels
   authors:
@@ -146,6 +151,8 @@
   - cell migration
   - stiffness
   - 3D traction force
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-022-29988-w
   title: Kidney epithelial cells are active mechano-biological fluid pumps
   authors:
@@ -167,11 +174,13 @@
   publisher: Nature Communications
   date: '2022-04-28'
   link: https://doi.org/gp57rr
+  image: images/papers/nature-comm.png
   tags:
   - kidney
   - morphogenesis
   - tissues
-  image: images/papers/nature-comm.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2022.07.20.500378
   title: Integrating pharmacogenomics data-driven prediction with bulk and single-cell
     RNAseq to demonstrate the efficacy of an NAMPT inhibitor against aggressive, taxane-resistant,
@@ -204,6 +213,8 @@
   - single-cell RNAseq
   - NAMPT inhibitor
   - prostate cancer
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/sciadv.abh3457
   title: The fluid shear stress sensor TRPM7 regulates tumor cell intravasation
   authors:
@@ -220,11 +231,13 @@
   publisher: Science Advances
   date: '2021-07-09'
   link: https://doi.org/gn2797
+  image: images/papers/science-advances-july-2021.png
   tags:
   - fluid shear stress
   - TRPM7
   - intravasation
-  image: images/papers/science-advances-july-2021.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1158/1538-7445.AM2021-1354
   title: 'Abstract 1354: Deciphering the functional basis of synergy between taxanes
     and TAK715: A novel repurposed drug candidate in treatment-refractory aggressive
@@ -249,6 +262,8 @@
   - taxanes
   - TAK715
   - prostate cancer
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1158/2159-8290.CD-20-0537
   title: "A Procarcinogenic Colon Microbe Promotes Breast Tumorigenesis and Metastatic\
     \ Progression and Concomitantly Activates Notch and \u03B2-Catenin Axes"
@@ -275,6 +290,8 @@
   - procarcinogenic microbe
   - breast tumorigenesis
   - metastasis
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.isci.2020.101802
   title: Myosin 10 Regulates Invasion, Mitosis, and Metabolic Signaling in Glioblastoma
   authors:
@@ -307,6 +324,8 @@
   - myosin 10
   - glioblastoma
   - metabolic signaling
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/sciadv.aba6505
   title: Dorsoventral polarity directs cell responses to migration track geometries
   authors:
@@ -333,6 +352,8 @@
   tags:
   - dorsoventral polarity
   - cell migration
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1158/1538-7445.MVC2020-PR06
   title: "Abstract PR06: <i>Bacteroides fragilis</i>: A potential pathogen orchestrating\
     \ EMT and stemness in breast epithelial cells via concomitant activation of Notch\
@@ -355,6 +376,8 @@
   tags:
   - breast epithelial cells
   - Bacteroides fragilis
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1083/jcb.201902057
   title: Confinement hinders motility by inducing RhoA-mediated nuclear influx, volume
     expansion, and blebbing
@@ -383,6 +406,8 @@
   - confinement
   - RhoA
   - motility
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1096/fj.201900377R
   title: Restoring extracellular matrix synthesis in senescent stem cells
   authors:
@@ -402,6 +427,8 @@
   tags:
   - extracellular matrix
   - senescent stem cells
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/sciadv.aaw7243
   title: 'Cell sensing and decision-making in confinement: The role of TRPM7 in a
     tug of war between hydraulic pressure and cross-sectional area'
@@ -426,6 +453,8 @@
   - TRPM7
   - confinement
   - hydraulic pressure
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41551-019-0400-9
   title: A microfluidic assay for the quantification of the metastatic propensity
     of breast cancer specimens
@@ -452,6 +481,8 @@
   - microfluidic assay
   - breast cancer
   - metastasis
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1158/0008-5472.CAN-18-3369
   title: "A Direct Podocalyxin\u2013Dynamin-2 Interaction Regulates Cytoskeletal Dynamics\
     \ to Promote Migration and Metastasis in Pancreatic Cancer Cells"
@@ -472,6 +503,8 @@
   - pancreatic cancer cells
   - migration
   - metastasis
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-319-95294-9_8
   title: 'Exposing Cell-Itary Confinement: Understanding the Mechanisms of Confined
     Single Cell Migration'
@@ -488,6 +521,8 @@
   - cell blebbing
   - amoeboid migration
   - confinement
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/onc.2017.164
   title: Activation of tumor suppressor LKB1 by honokiol abrogates cancer stem-like
     phenotype in breast cancer via inhibition of oncogenic Stat3
@@ -522,6 +557,8 @@
   - LKB1
   - breast cancer
   - Stat3 inhibition
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.arr.2017.05.006
   title: 'Vascular aging: Molecular mechanisms and potential treatments for vascular
     rejuvenation'
@@ -535,6 +572,8 @@
   tags:
   - vscular aging
   - vascular rejuvenation
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1089/ten.tea.2016.0494
   title: NANOG Restores Contractility of Mesenchymal Stem Cell-Based Senescent Microtissues
   authors:
@@ -551,6 +590,8 @@
   - nanog
   - contractility
   - mesenchymal stem cells
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/nrc.2016.123
   title: 'Cancer cell motility: lessons from migration in confined spaces'
   authors:
@@ -566,6 +607,8 @@
   - migation
   - cancer
   - confined spaces
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/stem.2452
   title: NANOG Reverses the Myogenic Differentiation Potential of Senescent Stem Cells
     by Restoring ACTIN Filamentous Organization and SRF-Dependent Gene Expression
@@ -590,6 +633,8 @@
   - nanog
   - myogenic differentiation
   - senescent stem cells
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/mt.2014.103
   title: Lentiviral Arrays for Live-cell Dynamic Monitoring of Gene and Pathway Activity
     During Stem Cell Differentiation
@@ -606,6 +651,8 @@
   - lentiviral arrays
   - differentiation
   - dynamic monitoring
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.biomaterials.2013.08.063
   title: "Poly(ethylene glycol)-block-cationic polylactide nanocomplexes of\_differing\
     \ charge density for gene delivery"
@@ -628,6 +675,8 @@
   - cationic polymer
   - nanocomplex
   - gene delivery
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1089/ten.teb.2012.0422
   title: 'Hair Follicle: A Novel Source of Multipotent Stem Cells for Tissue Engineering
     and Regenerative Medicine'
@@ -642,6 +691,8 @@
   - hair follicle
   - multipotent stem cells
   - regenerative medicine
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-1-62703-417-3_5
   title: 'Hair Follicle: A Novel Source of Stem Cells for Cell and Gene Therapy'
   authors:
@@ -655,6 +706,8 @@
   - hair follicle
   - stem cells
   - gene therapy
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/stem.1223
   title: Nanog Reverses the Effects of Organismal Aging on Mesenchymal Stem Cell Proliferation
     and Myogenic Differentiation Potential
@@ -673,6 +726,8 @@
   - Nanog
   - Organismal Aging
   - mesenchymal stem cells
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/cvr/cvs253
   title: Functional vascular smooth muscle cells derived from human induced pluripotent
     stem cells via mesenchymal stem cell intermediates
@@ -689,6 +744,8 @@
   tags:
   - smooth muscle cells
   - human induced pluripotent stem cells
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.scr.2011.07.003
   title: Clonal multipotency and effect of long-term in vitro expansion on differentiation
     potential of human hair follicle derived mesenchymal stem cells
@@ -704,6 +761,8 @@
   - clonal multipotency
   - human hair follicle
   - mesenchymal stem cells
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jbiotec.2008.07.600
   title: 'Biotransformations of natural compounds: Structural and functional diversity
     of novel derivatives'
@@ -718,11 +777,13 @@
   publisher: Journal of Biotechnology
   date: '2008-10-01'
   link: https://doi.org/cntb8p
+  image: images/papers/biotransformations.png
   tags:
   - biotransformations
   - natural compounds
   - derivatives
-  image: images/papers/biotransformations.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jtemb.2007.09.004
   title: Manganese species from human serum, cerebrospinal fluid analyzed by size
     exclusion chromatography-, capillary electrophoresis coupled to inductively coupled
@@ -736,11 +797,13 @@
   publisher: Journal of Trace Elements in Medicine and Biology
   date: '2007-12-01'
   link: https://doi.org/fmvg7w
+  image: images/papers/trace-elements.png
   tags:
   - human cerebrospinal fluid
   - capillary electrophoresis
   - manganese species
-  image: images/papers/trace-elements.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/elps.200600686
   title: Manganese speciation in human cerebrospinal fluid using CZE coupled to inductively
     coupled plasma MS
@@ -753,11 +816,13 @@
   publisher: ELECTROPHORESIS
   date: '2007-05-01'
   link: https://doi.org/cqkxbb
+  image: images/papers/electrophoresis.png
   tags:
   - human cerebrospinal fluid
   - coupled plasma
   - manganese species
-  image: images/papers/electrophoresis.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/B610639K
   title: Size characterization of manganese species from human serum and cerebrospinal
     fluid using size exclusion chromatography coupled to inductively coupled plasma
@@ -776,3 +841,5 @@
   - cerebrospinal fluid
   - plasma mass spectrometry
   - manganese species
+  plugin: sources.py
+  file: sources.yaml
