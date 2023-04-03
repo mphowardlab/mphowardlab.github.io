@@ -13,7 +13,7 @@ footer a {
 }
 
 footer a:hover {
-  color: #E87722 !important;
+  color: var(--primary) !important;
 }
 
 footer .icon {
