@@ -11,6 +11,10 @@ footer {
   box-shadow: var(--shadow);
 }
 
+footer[data-dark="true"] {
+  box-shadow: none
+}
+
 footer a {
   color: var(--text) !important;
 }

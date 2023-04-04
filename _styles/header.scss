@@ -15,13 +15,17 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
-  box-shadow: none;
+  box-shadow: var(--shadow);
 
   @if $sticky {
     position: sticky !important;
     top: 0;
     z-index: 10 !important;
   }
+}
+
+header[data-dark="true"] {
+  box-shadow: none
 }
 
 header a {

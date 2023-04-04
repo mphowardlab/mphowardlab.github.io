@@ -8,7 +8,6 @@ links:
   orcid: 0000-0002-9561-4165
   google-scholar: 1OUdHbQAAAAJ
   github: mphowardlab
-
 defaults:
   - scope:
       path: ""
