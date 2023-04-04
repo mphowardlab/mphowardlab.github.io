@@ -1,16 +1,14 @@
 title: mphoward lab
-subtitle: . 
+subtitle: ""
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: ""
+footer: ""
 links:
-  email: contact@your-lab.com
-  orcid: https://orcid.org/0000-0002-9561-4165
-  google-scholar: https://scholar.google.com/citations?user=1OUdHbQAAAAJ&hl=en&oi=ao 
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: mphoward@auburn.edu
+  orcid: 0000-0002-9561-4165
+  google-scholar: 1OUdHbQAAAAJ
+  github: mphowardlab
+
 defaults:
   - scope:
       path: ""
@@ -46,8 +44,3 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-email: contact@mphowardlab.com
-github: mphowardlab
-twitter: mphowardlab
-instagram: mphowardlab
-youtube: mphowardlab

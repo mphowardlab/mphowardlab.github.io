@@ -15,7 +15,7 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
-  box-shadow: var(--shadow);
+  box-shadow: none;
 
   @if $sticky {
     position: sticky !important;
@@ -44,7 +44,7 @@ header a {
 }
 
 .logo > * {
-  height: 100%;
+  width: 100%;
 }
 
 .title {
@@ -69,7 +69,6 @@ header a {
 .title > *:last-child {
   color: var(--gray);
   font-weight: var(--thin);
-  opacity: 0;
 }
 
 .nav-toggle {
@@ -150,7 +149,6 @@ header[data-big] {
 
   .home {
     flex-direction: row;
-    flex-grow: 2;
   }
 
   .logo {
@@ -164,7 +162,6 @@ header[data-big] {
   }
 
   .title > *:first-child {
-    
     font-size: var(--xxxl);
   }
 

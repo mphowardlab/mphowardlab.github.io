@@ -9,7 +9,7 @@
   --background: #ffffff;
   --background-alt: #fafafa;
   --light-gray: #e0e0e0;
-  --gray:#808080;
+  --gray: #808080;
   --overlay: #00000020;
 }
 [data-dark="true"] {
@@ -17,7 +17,7 @@
   --secondary: #075985;
   --text: #ffffff;
   --background: #0C2340;
-  --background-alt: #0C2340;
+  --background-alt: #091a2f;
   --light-gray: #404040;
   --gray: #808080;
   --overlay: #ffffff10;
@@ -48,5 +48,5 @@
 
   // effects
   --rounded: 3px;
-  --shadow: none;
+  --shadow: 0 0 10px 0 var(--overlay);
 }
