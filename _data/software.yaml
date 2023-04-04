@@ -1,5 +1,5 @@
 - title: relentless
-  subtitle:
+  subtitle: <a href="https://relentless.readthedocs.io/en/latest/">documentation</a>
   group: featured
   image: images/photo.jpg
   link: https://github.com/mphowardlab/relentless
@@ -17,7 +17,7 @@
   tags:
 
 - title: azplugins
-  subtitle:
+  subtitle: <a href="https://azplugins.readthedocs.io">documentation</a>
   group: featured
   image: images/photo.jpg
   link: https://github.com/mphowardlab/azplugins
