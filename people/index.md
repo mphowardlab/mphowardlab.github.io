@@ -12,6 +12,7 @@ Our research team is made up of
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: candidate" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
