@@ -5,7 +5,7 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
-  box-shadow: var(--shadow);
+  box-shadow: none;
   position: sticky !important;
   top: 0;
   z-index: 10 !important;
@@ -31,7 +31,7 @@ header a {
 }
 
 .logo > * {
-  height: 100%;
+  width: 100%;
 }
 
 .title {
@@ -53,7 +53,6 @@ header a {
 .title > *:last-child {
   color: var(--gray);
   font-weight: var(--thin);
-  opacity: 0;
 }
 
 .nav-toggle {
@@ -128,7 +127,6 @@ header[data-big] {
 }
 header[data-big] .home {
   flex-direction: row;
-  flex-grow: 2;
 }
 header[data-big] .logo {
   height: 80px;
