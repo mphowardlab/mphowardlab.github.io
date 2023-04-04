@@ -1,113 +1,622 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1063/5.0127570
+  title: Multiscale modeling of solute diffusion in triblock copolymer membranes
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Anthony J. Cooper
+  - Michael P. Howard
+  - Sanket Kadulkar
+  - David Zhao
+  - Kris T. Delaney
+  - Venkat Ganesan
+  - Thomas M. Truskett
+  - Glenn H. Fredrickson
+  publisher: The Journal of Chemical Physics
+  date: '2023-01-14'
+  link: https://doi.org/gr2vcg
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0118695
+  title: 'Dynamic density functional theory for drying colloidal suspensions: Comparison
+    of hard-sphere free-energy functionals'
+  authors:
+  - Mayukh Kundu
+  - Michael P. Howard
+  publisher: The Journal of Chemical Physics
+  date: '2022-11-14'
+  link: https://doi.org/gr2vch
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.macromol.2c01390
+  title: Effect of Charge Distribution on the Dynamics of Polyampholytic Disordered
+    Proteins
+  authors:
+  - Dinesh Sundaravadivelu Devarajan
+  - Shiv Rekhi
+  - Arash Nikoubashman
+  - Young C. Kim
+  - Michael P. Howard
+  - Jeetain Mittal
+  publisher: Macromolecules
+  date: '2022-10-12'
+  link: https://doi.org/gr2vcj
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/membranes12100942
+  title: Theoretical and Experimental Considerations for Investigating Multicomponent
+    Diffusion in Hydrated, Dense Polymer Membranes
+  authors:
+  - Antara Mazumder
+  - Breanna M. Dobyns
+  - Michael P. Howard
+  - Bryan S. Beckingham
+  publisher: Membranes
+  date: '2022-09-27'
+  link: https://doi.org/gr2vck
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.07.04.498718
+  title: Effect of Charge Distribution on the Dynamics of Polyampholytic Disordered
+    Proteins
+  authors:
+  - Dinesh Sundaravadivelu Devarajan
+  - Shiv Rekhi
+  - Arash Nikoubashman
+  - Young C. Kim
+  - Michael P. Howard
+  - Jeetain Mittal
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-07-04'
+  link: https://doi.org/gr2vcm
+  orcid: 0000-0002-9561-4165
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1063/5.0075002
+  title: Diffusion and sedimentation in colloidal suspensions using multiparticle
+    collision dynamics with a discrete particle model
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Yashraj M. Wani
+  - Penelope Grace Kovakas
+  - Arash Nikoubashman
+  - Michael P. Howard
+  publisher: The Journal of Chemical Physics
+  date: '2022-01-14'
+  link: https://doi.org/gr2vcn
+  orcid: 0000-0002-9561-4165
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1122/8.0000223
+  title: 'Nanoparticle dynamics in semidilute polymer solutions: Rings versus linear
+    chains'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Renjie Chen
+  - Shivraj B. Kotkar
+  - Ryan Poling-Skutvik
+  - Michael P. Howard
+  - Arash Nikoubashman
+  - Jacinta C. Conrad
+  - Jeremy C. Palmer
+  publisher: Journal of Rheology
+  date: '2021-07-01'
+  link: https://doi.org/gr2vcp
+  orcid: 0000-0002-9561-4165
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1021/acs.jpcb.1c02004
+  title: Prediction and Optimization of Ion Transport Characteristics in Nanoparticle-Based
+    Electrolytes Using Convolutional Neural Networks
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Sanket Kadulkar
+  - Michael P. Howard
+  - Thomas M. Truskett
+  - Venkat Ganesan
+  publisher: The Journal of Physical Chemistry B
+  date: '2021-04-29'
+  link: https://doi.org/gr2vcq
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0038672
+  title: Effects of linker flexibility on phase behavior and structure of linked colloidal
+    gels
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Michael P. Howard
+  - Zachary M. Sherman
+  - Adithya N Sreenivasan
+  - Stephanie A. Valenzuela
+  - Eric V. Anslyn
+  - Delia J. Milliron
+  - Thomas M. Truskett
+  publisher: The Journal of Chemical Physics
+  date: '2021-02-21'
+  link: https://doi.org/gh4k28
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.accounts.0c00796
+  title: Colloidal Nanocrystal Gels from Thermodynamic Principles
+  authors:
+  - Zachary M. Sherman
+  - Allison M. Green
+  - Michael P. Howard
+  - Eric V. Anslyn
+  - Thomas M. Truskett
+  - Delia J. Milliron
+  publisher: Accounts of Chemical Research
+  date: '2021-02-03'
+  link: https://doi.org/gr2vcr
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0033413
+  title: "Wertheim\u2019s thermodynamic perturbation theory with double-bond association\
+    \ and its application to colloid\u2013linker mixtures"
+  authors:
+  - Michael P. Howard
+  - Zachary M. Sherman
+  - Delia J. Milliron
+  - Thomas M. Truskett
+  publisher: The Journal of Chemical Physics
+  date: '2021-01-14'
+  link: https://doi.org/gr2vcs
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.chemmater.0c04151
+  title: Assembly of Linked Nanocrystal Colloids by Reversible Covalent Bonds
+  authors:
+  - Manuel N. Dominguez
+  - Michael P. Howard
+  - Josef M. Maier
+  - Stephanie A. Valenzuela
+  - Zachary M. Sherman
+  - James F. Reuther
+  - Lauren C. Reimnitz
+  - Jiho Kang
+  - Shin Hum Cho
+  - Stephen L. Gibbs
+  - Arjun K. Menta
+  - Deborah L. Zhuang
+  - Aevi van der Stok
+  - Sarah J. Kline
+  - Eric V. Anslyn
+  - Thomas M. Truskett
+  - Delia J. Milliron
+  publisher: Chemistry of Materials
+  date: '2020-11-18'
+  link: https://doi.org/gr2vct
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0014429
+  title: 'Stratification of polymer mixtures in drying droplets: Hydrodynamics and
+    diffusion'
+  authors:
+  - Michael P. Howard
+  - Arash Nikoubashman
+  publisher: The Journal of Chemical Physics
+  date: '2020-08-07'
+  link: https://doi.org/gr2vcv
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0010697
+  title: Stability of force-driven shear flows in nonequilibrium molecular simulations
+    with periodic boundaries
+  authors:
+  - Michael P. Howard
+  - Antonia Statt
+  - Howard A. Stone
+  - Thomas M. Truskett
+  publisher: The Journal of Chemical Physics
+  date: '2020-06-07'
+  link: https://doi.org/ghd979
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.nanolett.0c01311
+  title: Universal Gelation of Metal Oxide Nanocrystals via Depletion Attractions
+  authors:
+  - Camila A. Saez Cabezas
+  - Zachary M. Sherman
+  - Michael P. Howard
+  - Manuel N. Dominguez
+  - Shin Hum Cho
+  - Gary K. Ong
+  - Allison M. Green
+  - Thomas M. Truskett
+  - Delia J. Milliron
+  publisher: Nano Letters
+  date: '2020-05-01'
+  link: https://doi.org/gr2vcw
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.macromol.0c00104
+  title: Connecting Solute Diffusion to Morphology in Triblock Copolymer Membranes
+  authors:
+  - Michael P. Howard
+  - Joshua Lequieu
+  - Kris T. Delaney
+  - Venkat Ganesan
+  - Glenn H. Fredrickson
+  - Thomas M. Truskett
+  publisher: Macromolecules
+  date: '2020-03-18'
+  link: https://doi.org/gr2vcx
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5145177
+  title: Inverse methods for design of soft materials
+  authors:
+  - Zachary M. Sherman
+  - Michael P. Howard
+  - Beth A. Lindquist
+  - Ryan B. Jadrich
+  - Thomas M. Truskett
+  publisher: The Journal of Chemical Physics
+  date: '2020-04-14'
+  link: https://doi.org/ggrrpn
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5128119
+  title: Influence of pore morphology on the diffusion of water in triblock copolymer
+    membranes
+  authors:
+  - Dipak Aryal
+  - Michael P. Howard
+  - Rituparna Samanta
+  - Segolene Antoine
+  - Rachel Segalman
+  - Thomas M. Truskett
+  - Venkat Ganesan
+  publisher: The Journal of Chemical Physics
+  date: '2020-01-07'
+  link: https://doi.org/gr2vcz
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5119359
+  title: Structure and phase behavior of polymer-linked colloidal gels
+  authors:
+  - Michael P. Howard
+  - Ryan B. Jadrich
+  - Beth A. Lindquist
+  - Fardin Khabaz
+  - Roger T. Bonnecaze
+  - Delia J. Milliron
+  - Thomas M. Truskett
+  publisher: The Journal of Chemical Physics
+  date: '2019-09-28'
+  link: https://doi.org/gr2vc2
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5112766
+  title: The role of pressure in inverse design for assembly
+  authors:
+  - Beth A. Lindquist
+  - Ryan B. Jadrich
+  - Michael P. Howard
+  - Thomas M. Truskett
+  publisher: The Journal of Chemical Physics
+  date: '2019-09-14'
+  link: https://doi.org/gr2vc3
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsmacrolett.9b00211
+  title: Self-Organization and Flow of Low-Functionality Telechelic Star Polymers
+    with Varying Attraction
+  authors:
+  - Esmaeel Moghimi
+  - Iurii Chubak
+  - Antonia Statt
+  - Michael P. Howard
+  - Dimitra Founta
+  - George Polymeropoulos
+  - Konstantinos Ntetsikas
+  - Nikos Hadjichristidis
+  - Athanassios Z. Panagiotopoulos
+  - Christos N. Likos
+  - Dimitris Vlassopoulos
+  publisher: ACS Macro Letters
+  date: '2019-06-10'
+  link: https://doi.org/gr2vc4
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C9SM00731H
+  title: Crack formation and self-closing in shrinkable, granular packings
+  authors:
+  - H. Jeremy Cho
+  - Nancy B. Lu
+  - Michael P. Howard
+  - Rebekah A. Adams
+  - Sujit S. Datta
+  publisher: Soft Matter
+  date: '2019-01-01'
+  link: https://doi.org/gr2vc5
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C8SM02552E
+  title: Cross-stream migration of a Brownian droplet in a polymer solution under
+    Poiseuille flow
+  authors:
+  - Michael P. Howard
+  - Thomas M. Truskett
+  - Arash Nikoubashman
+  publisher: Soft Matter
+  date: '2019-01-01'
+  link: https://doi.org/gqt3hh
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C8SM01834K
+  title: Influence of polymer flexibility on nanoparticle dynamics in semidilute solutions
+  authors:
+  - Renjie Chen
+  - Ryan Poling-Skutvik
+  - Michael P. Howard
+  - Arash Nikoubashman
+  - Sergei A. Egorov
+  - Jacinta C. Conrad
+  - Jeremy C. Palmer
+  publisher: Soft Matter
+  date: '2019-01-01'
+  link: https://doi.org/ggzjnd
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5080924
+  title: "Erratum: \u201CEvaporation-induced assembly of colloidal crystals\u201D\
+    \ [J. Chem. Phys. 149, 094901 (2018)]"
+  authors:
+  - Michael P. Howard
+  - Wesley F. Reinhart
+  - Tanmoy Sanyal
+  - M. Scott Shell
+  - Arash Nikoubashman
+  - Athanassios Z. Panagiotopoulos
+  publisher: The Journal of Chemical Physics
+  date: '2018-11-28'
+  link: https://doi.org/gr2vc6
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5043401
+  title: Evaporation-induced assembly of colloidal crystals
+  authors:
+  - Michael P. Howard
+  - Wesley F. Reinhart
+  - Tanmoy Sanyal
+  - M. Scott Shell
+  - Arash Nikoubashman
+  - Athanassios Z. Panagiotopoulos
+  publisher: The Journal of Chemical Physics
+  date: '2018-09-07'
+  link: https://doi.org/gd75qn
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cpc.2018.04.009
+  title: 'Efficient mesoscale hydrodynamics: Multiparticle collision dynamics with
+    massively parallel GPU acceleration'
+  authors:
+  - Michael P. Howard
+  - Athanassios Z. Panagiotopoulos
+  - Arash Nikoubashman
+  publisher: Computer Physics Communications
+  date: '2018-09-01'
+  link: https://doi.org/gdwgcr
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5031789
+  title: Influence of hydrodynamic interactions on stratification in drying mixtures
+  authors:
+  - Antonia Statt
+  - Michael P. Howard
+  - Athanassios Z. Panagiotopoulos
+  publisher: The Journal of Chemical Physics
+  date: '2018-07-14'
+  link: https://doi.org/gdwf39
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.macromol.7b02441
+  title: Coupling of Nanoparticle Dynamics to Polymer Center-of-Mass Motion in Semidilute
+    Polymer Solutions
+  authors:
+  - Renjie Chen
+  - Ryan Poling-Skutvik
+  - Arash Nikoubashman
+  - Michael P. Howard
+  - Jacinta C. Conrad
+  - Jeremy C. Palmer
+  publisher: Macromolecules
+  date: '2018-02-22'
+  link: https://doi.org/gc9c9c
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4996119
+  title: Solvent quality influences surface structure of glassy polymer thin films
+    after evaporation
+  authors:
+  - Antonia Statt
+  - Michael P. Howard
+  - Athanassios Z. Panagiotopoulos
+  publisher: The Journal of Chemical Physics
+  date: '2017-11-14'
+  link: https://doi.org/gcj6z3
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.macromol.7b01876
+  title: Equilibrium Dynamics and Shear Rheology of Semiflexible Polymers in Solution
+  authors:
+  - Arash Nikoubashman
+  - Michael P. Howard
+  publisher: Macromolecules
+  date: '2017-10-10'
+  link: https://doi.org/gcjdqw
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.langmuir.7b02074
+  title: "Stratification in Drying Polymer\u2013Polymer and Colloid\u2013Polymer Mixtures"
+  authors:
+  - Michael P. Howard
+  - Arash Nikoubashman
+  - Athanassios Z. Panagiotopoulos
+  publisher: Langmuir
+  date: '2017-08-24'
+  link: https://doi.org/gr2vc7
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4985251
+  title: 'Note: Smooth torsional potentials for degenerate dihedral angles'
+  authors:
+  - Michael P. Howard
+  - Antonia Statt
+  - Athanassios Z. Panagiotopoulos
+  publisher: The Journal of Chemical Physics
+  date: '2017-06-14'
+  link: https://doi.org/gr2vc8
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.langmuir.7b00543
+  title: Stratification Dynamics in Drying Colloidal Mixtures
+  authors:
+  - Michael P. Howard
+  - Arash Nikoubashman
+  - Athanassios Z. Panagiotopoulos
+  publisher: Langmuir
+  date: '2017-04-06'
+  link: https://doi.org/f92c6c
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C7SM00957G
+  title: Machine learning for autonomous crystal structure identification
+  authors:
+  - Wesley F. Reinhart
+  - Andrew W. Long
+  - Michael P. Howard
+  - Andrew L. Ferguson
+  - Athanassios Z. Panagiotopoulos
+  publisher: Soft Matter
+  date: '2017-01-01'
+  link: https://doi.org/gcz64d
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/physrevfluids.1.044203
+  title: Axial dispersion of Brownian colloids in microfluidic channels
+  authors:
+  - Michael P. Howard
+  - Aishwarya Gautam
+  - Athanassios Z. Panagiotopoulos
+  - Arash Nikoubashman
+  publisher: Physical Review Fluids
+  date: '2016-08-19'
+  link: https://doi.org/gr2vc9
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cpc.2016.02.003
+  title: Efficient neighbor list calculation for molecular simulation of colloidal
+    systems using graphics processing units
+  authors:
+  - Michael P. Howard
+  - Joshua A. Anderson
+  - Arash Nikoubashman
+  - Sharon C. Glotzer
+  - Athanassios Z. Panagiotopoulos
+  publisher: Computer Physics Communications
+  date: '2016-06-01'
+  link: https://doi.org/f8nv65
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/00268976.2016.1262075
+  title: "Vapour\u2013liquid phase equilibrium and surface tension of fully flexible\
+    \ Lennard\u2013Jones chains"
+  authors:
+  - Kevin S. Silmore
+  - Michael P. Howard
+  - Athanassios Z. Panagiotopoulos
+  publisher: Molecular Physics
+  date: '2016-12-07'
+  link: https://doi.org/gnhpx4
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4922323
+  title: Inertial and viscoelastic forces on rigid colloids in microfluidic channels
+  authors:
+  - Michael P. Howard
+  - Athanassios Z. Panagiotopoulos
+  - Arash Nikoubashman
+  publisher: The Journal of Chemical Physics
+  date: '2015-06-14'
+  link: https://doi.org/f8fkks
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ma501906n
+  title: Self-Consistent Real Space Free Energy Calculations for Polyethylene and
+    Isotactic Polypropylene Crystals and Interfaces
+  authors:
+  - Michael P. Howard
+  - Scott T. Milner
+  publisher: Macromolecules
+  date: '2014-11-20'
+  link: https://doi.org/f6s3dz
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ma400702q
+  title: A Simple Model for Heterogeneous Nucleation of Isotactic Polypropylene
+  authors:
+  - Michael P. Howard
+  - Scott T. Milner
+  publisher: Macromolecules
+  date: '2013-08-09'
+  link: https://doi.org/f48388
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ma400703m
+  title: Calculated Interfacial Free Energies and Hetrogeneous Nucleation of Isotactic
+    Polypropylene
+  authors:
+  - Michael P. Howard
+  - Scott T. Milner
+  publisher: Macromolecules
+  date: '2013-08-09'
+  link: https://doi.org/f484cg
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/physreve.84.051804
+  title: Numerical simulation methods for the Rouse model in flow
+  authors:
+  - Michael P. Howard
+  - Scott T. Milner
+  publisher: Physical Review E
+  date: '2011-11-28'
+  link: https://doi.org/frxx7f
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
