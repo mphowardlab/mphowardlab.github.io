@@ -24,6 +24,10 @@ header {
   }
 }
 
+header[data-dark="true"] {
+  box-shadow: none
+}
+
 header a {
   color: var(--text);
   text-decoration: none;
@@ -40,11 +44,11 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: $logo-big;
 }
 
 .logo > * {
-  height: 100%;
+  width: 100%;
 }
 
 .title {
@@ -60,7 +64,8 @@ header a {
 
 // main title
 .title > *:first-child {
-  font-size: var(--large);
+  color:white; 
+  font-size: var(--xxxl);
 }
 
 // subtitle
@@ -138,16 +143,15 @@ header:not([data-big]) {
 header[data-big] {
   justify-content: center;
   align-items: center;
-  flex-direction: column;
-  padding: $big-padding 20px;
+  flex-direction: row;
+  padding: 20px;
 
   @if $sticky {
     top: unset;
   }
 
   .home {
-    flex-direction: column;
-    flex-grow: 0;
+    flex-direction: row;
   }
 
   .logo {
@@ -155,13 +159,13 @@ header[data-big] {
   }
 
   .title {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     text-align: center;
   }
 
   .title > *:first-child {
-    font-size: var(--xxl);
+    font-size: var(--xxxl);
   }
 
   .title > *:last-child {

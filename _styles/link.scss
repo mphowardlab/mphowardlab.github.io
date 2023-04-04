@@ -2,11 +2,11 @@
 ---
 
 a {
-  color: var(--primary);
+  color: var(--text);
   transition-property: color;
   overflow-wrap: break-word;
 }
 
 a:hover {
-  color: var(--text);
+  color: var(--primary);
 }
