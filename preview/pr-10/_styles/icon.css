@@ -1,4 +1,5 @@
 .icon {
+  color: var(--primary);
   height: 1em;
   vertical-align: middle;
 }
