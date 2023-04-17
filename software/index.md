@@ -7,6 +7,6 @@ nav:
 
 ## Software
 
-The mphoward lab has several open-source software packages useful for simulations.
+We develop and support several open-source software packages for simulating soft materials.
 
 {% include list.html component="card" data="software" filters="" style="medium" %}
