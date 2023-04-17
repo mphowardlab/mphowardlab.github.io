@@ -3,7 +3,7 @@
   group: featured
   image: images/relentless_icon.png
   link: https://github.com/mphowardlab/relentless
-  description: relentless is an open-source, easy-to-use Python package that automizes the optimization of design parameters during relative entropy minimization in several popular MD simulation packages.
+  description: relentless is an easy-to-use, highly extensible Python package for integrating molecular simulations with optimization for computational materials design.
   repo: 
   tags:
 
