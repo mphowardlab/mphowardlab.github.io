@@ -1,7 +1,6 @@
 ---
 name: Mohammadreza Fakhraei
-image: images/photo.jpg
-description: PhD. Student
+image: images/fakhraei-mohammadreza.png
 role: phd
 links:
   email: mzf0069@auburn.edu

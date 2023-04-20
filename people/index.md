@@ -33,3 +33,11 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+{% include section.html background="images/background.jpg" dark=true %}
+
+Soon to come our alumni.
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: alumni" %}

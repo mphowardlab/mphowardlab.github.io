@@ -1,9 +1,7 @@
 ---
 name: Mayukh Kundu
-image: images/photo.jpg
-description: PhD. Candidate
+image: images/kundu-mayukh.jpg
 role: candidate
-# group: 
 links:
   email: mzk0148@auburn.edu
 ---
