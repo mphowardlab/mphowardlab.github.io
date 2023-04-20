@@ -4,6 +4,7 @@ image: images/fakhraei-mohammadreza.png
 role: phd
 links:
   email: mzf0069@auburn.edu
+  google-scholar: https://scholar.google.com/citations?user=1ulVRxgAAAAJ&hl=en&authuser=2
 ---
 
 B.S. Chemical Engineering, Azad University - Science and Research, Tehran, IR
