@@ -74,7 +74,7 @@ Our team .
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/2022-10-group.jpg"
   link="team"
   title="Our Team"
   text=text

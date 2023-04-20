@@ -26,6 +26,9 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+alumni:
+  icon: fa-solid fa-cat
+  description: Alumni
 # general
 
 link:
