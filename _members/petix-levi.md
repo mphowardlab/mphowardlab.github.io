@@ -1,6 +1,6 @@
 ---
 name: Chase 'Levi' Petix
-image: images/levi_petix.jpg
+image: images/petix-levi.jpg
 role: phd
 links:
   email: clp0093@auburn.edu
