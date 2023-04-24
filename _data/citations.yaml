@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acs.jpcb.3c00830
+  title: Role of Strong Localized vs Weak Distributed Interactions in Disordered Protein
+    Phase Separation
+  authors:
+  - Shiv Rekhi
+  - Dinesh Sundaravadivelu Devarajan
+  - Michael P. Howard
+  - Young C. Kim
+  - Arash Nikoubashman
+  - Jeetain Mittal
+  publisher: The Journal of Physical Chemistry B
+  date: '2023-04-20'
+  link: https://doi.org/gr56bw
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1063/5.0127570
   title: Multiscale modeling of solute diffusion in triblock copolymer membranes
   authors:
