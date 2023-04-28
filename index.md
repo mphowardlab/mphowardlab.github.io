@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our work"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -38,32 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="tools"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Our team .
-
-{%
-  include button.html
-  link="team"
+  link="people"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -75,7 +50,35 @@ Our team .
 {%
   include feature.html
   image="images/2022-10-group.jpg"
-  link="team"
+  link="people"
   title="Our Team"
+  flip=true
+  style="bare"
   text=text
 %}
+
+{% capture text %}
+
+Our software.
+
+{%
+  include button.html
+  link="software"
+  text="See our software"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="software"
+  title="Our Software"
+  text=text
+%}
+
+
+
