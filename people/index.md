@@ -22,15 +22,7 @@ We strive to have strong relationships among our team members. To achieve this, 
 
 {% include section.html %}
 
-{% capture content %}
-
-  {% include figure.html image="images/2022-07-BBQ.jpg" %}
-  {% include figure.html image="images/cookie_dec_2.jpg" %}
-  {% include figure.html image="images/cookie_dec.jpg" %}
-  
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include windows.html %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -38,4 +30,4 @@ Soon to come our alumni.
 
 {% include section.html %}
 
-{% include windows.html %}
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
