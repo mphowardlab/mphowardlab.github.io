@@ -8,4 +8,4 @@ links:
 ---
 B.S. Chemical Engineering, University of Mississippi 
 
-In 2021, Levi joined the mphoward lab. His research includes inverse design strategies for robust self-assembly. s
+In 2021, Levi joined the mphoward lab. His research includes inverse design strategies for robust self-assembly. 

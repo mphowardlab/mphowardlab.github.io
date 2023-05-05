@@ -38,4 +38,4 @@ Soon to come our alumni.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: alumni" %}
+{% include windows.html %}
