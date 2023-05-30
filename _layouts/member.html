@@ -18,7 +18,22 @@ layout: default
 
 {% capture col2 %}
 
+## Biography
 {{ content }}
+
+{% if page.education %}
+### Education
+{% for degree in page.education %}
+- {{ degree }}
+{% endfor %}
+{% endif %}
+
+{% if page.awards %}
+### Honors & Awards
+{% for award in page.awards %}
+- {{ award }}
+{% endfor %}
+{% endif %}
 
 {% assign aliases = page.aliases
   | default: page.name
