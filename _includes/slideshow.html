@@ -1,0 +1,67 @@
+{% assign emptyarray = "" | split: "," %}
+{% assign data = site.data[include.data]
+  | default: site[include.data]
+  | default: emptyarray
+  | data_filter: include.filters
+%}
+
+{% if data.size > 0 %}
+<div class="slideshow">
+  <div class="slideshow-container">
+    {% for image in data %}
+    <div class="mySlides fade">
+      <img src="{{ image.file | relative_url }}">
+      <div class="text">{{ image.text }}</div>
+    </div>
+    {% endfor %}
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+  <br>
+  {% for image in data %}
+  <span class="dot" onclick="currentSlide({{ forloop.index0 }})"></span>
+  {% endfor %}
+</div>
+
+<script>
+    let slideIndex = 0;
+    let timeoutId = null;
+    const slides = document.getElementsByClassName("mySlides");
+    const dots = document.getElementsByClassName("dot");
+    
+    showSlides();
+    function currentSlide(index) {
+          slideIndex = index;
+          showSlides();
+    }
+    function plusSlides(step) {
+      
+      if(step < 0) {
+          slideIndex -= 2;
+          
+          if(slideIndex < 0) {
+            slideIndex = slides.length - 1;
+          }
+      }
+      
+      showSlides();
+    }
+    function showSlides() {
+      for(let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+        dots[i].classList.remove('active');
+      }
+      slideIndex++;
+      if(slideIndex > slides.length) {
+        slideIndex = 1
+      }
+      slides[slideIndex - 1].style.display = "block";
+      dots[slideIndex - 1].classList.add('active');
+        if(timeoutId) {
+          clearTimeout(timeoutId);
+        }
+      timeoutId = setTimeout(showSlides, 8000); // Change image every 8 seconds
+    }
+  </script>
+  {% endif %}
+  

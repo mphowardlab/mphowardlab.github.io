@@ -19,4 +19,4 @@ We strive to have strong relationships among our team members. To achieve this, 
 
 {% include section.html %}
 
-{% include windows.html %}
+{% include slideshow.html data="group_photos" filters="" %}
