@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our work"
+  text="Learn about our work"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -64,7 +64,7 @@ Our software.
 {%
   include button.html
   link="software"
-  text="See our software"
+  text="Use our software"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -79,6 +79,3 @@ Our software.
   title="Our Software"
   text=text
 %}
-
-
-

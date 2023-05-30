@@ -2,7 +2,6 @@
 title: People
 nav:
   order: 2
-  tooltip: About our team
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -16,7 +15,7 @@ Our research team is made up of
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="" dark=true %}
 
 We strive to have strong relationships among our team members. To achieve this, we take occasional breaks to socialize and unwind, to build a supportive work environment that enhances our research collaboration and goals. 
 
@@ -24,7 +23,7 @@ We strive to have strong relationships among our team members. To achieve this, 
 
 {% include windows.html %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="" dark=true %}
 
 Soon to come our alumni.
 

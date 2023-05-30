@@ -35,16 +35,6 @@ layout: default
 <a href="{{ search | relative_url }}">
   See {{ page.name | default: page.title }}'s papers on the Research page
 </a>
-
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}
-
-<!-- 
-<a href="{{ search | relative_url }}">
-  See {{ page.name | default: page.title }}'s posts on the Blog page
-</a>
- -->
  
 {% endcapture %}
 
