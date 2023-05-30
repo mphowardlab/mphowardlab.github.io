@@ -663,7 +663,9 @@
   size: 1;
 -->
 
-<p>We strive to have strong relationships among our team members. To achieve this, we take occasional breaks to socialize and unwind, to build a supportive work environment that enhances our research collaboration and goals.</p>
+<p>We strive to have strong relationships among our team members. To achieve this,
+we take occasional breaks to socialize and unwind, to build a supportive work
+environment that enhances our research collaboration and goals.</p>
   </section>
 
   
@@ -716,45 +718,45 @@
 </div>
 
 <script>
-    let slideIndex = 0;
-    let timeoutId = null;
-    const slides = document.getElementsByClassName("mySlides");
-    const dots = document.getElementsByClassName("dot");
+  let slideIndex = 0;
+  let timeoutId = null;
+  const slides = document.getElementsByClassName("mySlides");
+  const dots = document.getElementsByClassName("dot");
+  
+  showSlides();
+  function currentSlide(index) {
+        slideIndex = index;
+        showSlides();
+  }
+  function plusSlides(step) {
+    
+    if(step < 0) {
+        slideIndex -= 2;
+        
+        if(slideIndex < 0) {
+          slideIndex = slides.length - 1;
+        }
+    }
     
     showSlides();
-    function currentSlide(index) {
-          slideIndex = index;
-          showSlides();
+  }
+  function showSlides() {
+    for(let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+      dots[i].classList.remove('active');
     }
-    function plusSlides(step) {
-      
-      if(step < 0) {
-          slideIndex -= 2;
-          
-          if(slideIndex < 0) {
-            slideIndex = slides.length - 1;
-          }
-      }
-      
-      showSlides();
+    slideIndex++;
+    if(slideIndex > slides.length) {
+      slideIndex = 1
     }
-    function showSlides() {
-      for(let i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-        dots[i].classList.remove('active');
+    slides[slideIndex - 1].style.display = "block";
+    dots[slideIndex - 1].classList.add('active');
+      if(timeoutId) {
+        clearTimeout(timeoutId);
       }
-      slideIndex++;
-      if(slideIndex > slides.length) {
-        slideIndex = 1
-      }
-      slides[slideIndex - 1].style.display = "block";
-      dots[slideIndex - 1].classList.add('active');
-        if(timeoutId) {
-          clearTimeout(timeoutId);
-        }
-      timeoutId = setTimeout(showSlides, 8000); // Change image every 8 seconds
-    }
-  </script>
+    timeoutId = setTimeout(showSlides, 8000); // Change image every 8 seconds
+  }
+</script>
   </section>
 
 
