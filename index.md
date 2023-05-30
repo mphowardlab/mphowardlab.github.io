@@ -11,7 +11,9 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use multiscale modeling, computer simulations, and fundamental chemical
+engineering concepts to develop new scientific understanding and engineering
+solutions to difficult problems in soft matter.
 
 {%
   include button.html
@@ -34,7 +36,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of individuals working together toward our common research goals. We
+value the unique experiences and perspectives that everyone brings to their work.
+As a team, we strive to train technically outstanding chemical engineers and to
+build a more inclusive workforce in computational molecular science.
 
 {%
   include button.html
@@ -59,12 +64,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Our software.
+We develop new scientific software to enable our own work and to support other
+researchers in our community. We aim to create more open, accessible, and
+reproducible science.
 
 {%
   include button.html
   link="software"
-  text="Use our software"
+  text="Explore our software"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
