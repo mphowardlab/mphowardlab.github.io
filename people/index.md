@@ -15,7 +15,9 @@ nav:
 
 {% include section.html dark=true %}
 
-We strive to have strong relationships among our team members. To achieve this, we take occasional breaks to socialize and unwind, to build a supportive work environment that enhances our research collaboration and goals. 
+We strive to have strong relationships among our team members. To achieve this,
+we take occasional breaks to socialize and unwind, to build a supportive work
+environment that enhances our research collaboration and goals. 
 
 {% include section.html %}
 
