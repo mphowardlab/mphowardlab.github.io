@@ -1,19 +1,13 @@
 ---
 ---
 
-
-
-An engaging 1-3 sentence description of your lab.
-
 {% include section.html %}
-
-## Highlights
 
 {% capture text %}
 
 We use multiscale modeling, computer simulations, and fundamental chemical
-engineering concepts to develop new scientific understanding and engineering
-solutions to difficult problems in soft matter.
+engineering concepts to develop new scientific understanding and solutions
+to engineering challenges in soft materials.
 
 {%
   include button.html
@@ -36,10 +30,10 @@ solutions to difficult problems in soft matter.
 
 {% capture text %}
 
-We are a team of individuals working together toward our common research goals. We
+We are a team of individuals working together to achieve our research goals. We
 value the unique experiences and perspectives that everyone brings to their work.
-As a team, we strive to train technically outstanding chemical engineers and to
-build a more inclusive workforce in computational molecular science.
+As a team, we strive to become technically outstanding chemical engineers and to
+help build a more inclusive workforce in computational molecular science.
 
 {%
   include button.html
