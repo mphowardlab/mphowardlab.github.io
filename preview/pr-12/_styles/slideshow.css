@@ -38,12 +38,12 @@
 
 /* Position the "next button" to the right */
 .slideshow > .slideshow-container > .next {
-  right: 0;
+  right: 16px;
   border-radius: 3px 0 0 3px;
 }
 
 .slideshow > .slideshow-container > .prev {
-  left: 0;
+  left: 16px;
   border-radius: 3px 0 0 3px;
 }
 
