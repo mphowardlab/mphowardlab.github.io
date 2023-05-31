@@ -2,7 +2,6 @@
 title: Publications
 nav:
   order: 3
-  tooltip: 
 ---
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 

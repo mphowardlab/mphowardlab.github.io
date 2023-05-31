@@ -2,10 +2,9 @@
 title: Software
 nav:
   order: 4
-  tooltip: Musings and miscellany
 ---
 
-## Software
+# {% include icon.html icon="fa-solid fa-desktop" %} Software
 
 We develop and support several open-source software packages for simulating soft materials.
 

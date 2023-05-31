@@ -1,22 +1,18 @@
 ---
 ---
 
-
-
-An engaging 1-3 sentence description of your lab.
-
 {% include section.html %}
-
-## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use multiscale modeling, computer simulations, and fundamental chemical
+engineering concepts to develop new scientific understanding and solutions
+to engineering challenges in soft materials.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn about our work"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,36 +30,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of individuals working together to achieve our research goals. We
+value the unique experiences and perspectives that everyone brings to their work.
+As a team, we strive to become technically outstanding chemical engineers and to
+help build a more inclusive workforce in computational molecular science.
 
 {%
   include button.html
-  link="tools"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
+  link="people"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -74,8 +48,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
+  image="images/2022-10-group.jpg"
+  link="people"
   title="Our Team"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+We develop new scientific software to enable our own work and to support other
+researchers in our community. We aim to create more open, accessible, and
+reproducible science.
+
+{%
+  include button.html
+  link="software"
+  text="Explore our software"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="software"
+  title="Our Software"
   text=text
 %}
