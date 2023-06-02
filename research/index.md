@@ -4,23 +4,101 @@ nav:
   order: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
+<!--  -->
+{% capture text %}
 
-## Highlighted
+<!-- Add text -->
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{%
+  include button.html
+  link="Non-equilibrium simulations"
+  text="More information"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-{% include section.html %}
+{% endcapture %}
 
-## All
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Nonequilibrium self-assembly of nanomaterials "
+  text=text
+%}
+<!--  -->
+{% capture text %}
 
-{% include search-box.html %}
+<!-- Add text -->
 
-{% include search-info.html %}
+{%
+  include button.html
+  link="people"
+  text="More information"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="people"
+  title="Title"
+  flip=true
+  style="bare"
+  text=text
+%}
+<!--  -->
+{% capture text %}
+
+<!-- Add text -->
+
+{%
+  include button.html
+  link="software"
+  text="More information"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="software"
+  title="Title"
+  text=text
+%}
+
+<!--  -->
+{% capture text %}
+
+<!-- Add text -->
+
+{%
+  include button.html
+  link="title"
+  text="More information"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="people"
+  title="Title"
+  flip=true
+  style="bare"
+  text=text
+%}
