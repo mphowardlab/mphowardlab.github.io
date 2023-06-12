@@ -1,5 +1,5 @@
 ---
-name: Chase 'Levi' Petix
+name: C. Levi Petix
 image: images/levi-petix.jpg
 role: phd
 links:
