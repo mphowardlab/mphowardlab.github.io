@@ -35,7 +35,7 @@ nav:
 
 {%
   include button.html
-  link="people"
+  link="id_plasmonics"
   text="More information"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -46,9 +46,9 @@ nav:
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="people"
-  title="Title"
+  image="images/inverse_design_plasmonics_figure.png"
+  link="id_plasmonics"
+  title="Inverse design of plasmonic nanocrystal superlattices"
   flip=true
   style="bare"
   text=text
