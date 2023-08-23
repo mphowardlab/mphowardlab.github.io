@@ -15,7 +15,7 @@ title: Non-equilibrium simulations
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/software.png"
   link="research"
   title="Nonequilibrium self-assembly of nanomaterials "
   text=text
