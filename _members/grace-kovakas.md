@@ -1,5 +1,5 @@
 ---
-name: Penelope 'Grace' Kovakas
+name: Penelope Grace Kovakas
 image: images/grace-kovakas.jpg
 role: undergrad
 links:
