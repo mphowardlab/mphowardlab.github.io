@@ -3,7 +3,7 @@
   group: featured
   image: images/software.png
   link: research/nonequilibrium-self-assembly
-  description: In this study, we conduct simulations to understand the various transport and thermodynamic properties in non-equlibrium system and apply that knowledge to design materials
+  description: In this research, we study nanoparticle self-assembly in solvent due to non-equilibrium processes like drying or sedimentation. 
  
   repo: 
   tags:
