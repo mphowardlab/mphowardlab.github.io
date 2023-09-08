@@ -3,7 +3,7 @@
   group: featured
   image: images/droplet.jpg
   link: research/nonequilibrium-self-assembly
-  description: In this research, we study nanoparticle self-assembly in solvent due to non-equilibrium processes like drying or sedimentation. 
+  description: In this research, we study solvent evaporation driven self-assembly of colloidal dispersions 
  
   repo: 
   tags:
