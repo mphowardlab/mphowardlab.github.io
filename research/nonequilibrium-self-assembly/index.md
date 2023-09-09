@@ -17,7 +17,7 @@ In this research, we use different kind simulation techniques to understand the 
 
 {%
   include feature.html
-  image="images/droplet.jpg"
+  image="images/stratified.jpeg"
   link="research"
   title="Nonequilibrium self-assembly of nanomaterials "
   text=text
