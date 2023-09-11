@@ -1,7 +1,7 @@
 ---
 name: Matthew Do
 image: images/matthew-do.jpg
-role: undergrad
+role: alumni
 links:
   email: mdd0046@auburn.edu
 ---
