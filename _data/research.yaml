@@ -8,11 +8,11 @@
   tags:
 
 - title:  Multi-scale inverse design of nanocrystal superlattices 
-  subtitle: This research engineers a novel computational approach for creating nanocrystal superlattices with controllable properties.
+  subtitle: 
   group: featured
   image: images/inverse_design_figure.png
   link: research/multiscale-inverse-design
-  description: 
+  description: This research engineers a novel computational approach for creating nanocrystal superlattices with controllable properties.
   repo: 
   tags:
 
