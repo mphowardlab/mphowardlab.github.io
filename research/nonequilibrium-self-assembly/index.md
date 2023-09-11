@@ -12,7 +12,7 @@ Nanoparticles or colloidal dispersions play a vital role in our daily lives. Fro
 
 In this research, we use different kind simulation techniques to understand the thermodynamic and transport properties of the solvent evaporation driven self assembly process. Understanding parameters would allow us to the tune necessary parameters to establish various novel structures in various geometries such as films, droplets etc. 
 
-[See our publications!](../../publications/)
+[See our publications!](../../publications/?search=Colloidal+suspensions)
 {% endcapture %}
 
 {%
