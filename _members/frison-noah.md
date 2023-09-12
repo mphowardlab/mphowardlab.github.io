@@ -1,6 +1,6 @@
 ---
 name: Noah Frison
-image: images/photo.jpg
+image: images/noah-frison.jpeg
 role: undergrad
 links:
   email: ncf0015@auburn.edu
