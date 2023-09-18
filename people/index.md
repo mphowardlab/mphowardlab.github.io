@@ -23,8 +23,8 @@ environment that enhances our research collaboration and goals.
 
 {% include slideshow.html data="group_photos" filters="" %}
 
-# Alumni
 
 {% include section.html %}
+## Alumni
 
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
