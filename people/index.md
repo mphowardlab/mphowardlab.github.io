@@ -22,3 +22,9 @@ environment that enhances our research collaboration and goals.
 {% include section.html %}
 
 {% include slideshow.html data="group_photos" filters="" %}
+
+
+{% include section.html %}
+## Alumni
+
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
