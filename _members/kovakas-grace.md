@@ -1,6 +1,6 @@
 ---
 name: Penelope Grace Kovakas
-image: images/grace-kovakas.jpg
+image: images/kovakas-grace.jpg
 role: undergrad
 links:
   email: pgk0008@auburn.edu
