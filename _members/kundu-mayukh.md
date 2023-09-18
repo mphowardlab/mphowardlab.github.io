@@ -1,6 +1,6 @@
 ---
 name: Mayukh Kundu
-image: images/mayukh-kundu.jpg
+image: images/kundu-mayukh.jpg
 role: candidate
 links:
   email: mzk0148@auburn.edu

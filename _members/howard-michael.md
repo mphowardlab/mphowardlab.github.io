@@ -1,6 +1,6 @@
 ---
 name: Michael P. Howard
-image: images/michael-howard.jpg
+image: images/howard-michael.jpg
 role: pi
 links:
   email: mph0043@auburn.edu
