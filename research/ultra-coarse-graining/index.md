@@ -22,7 +22,7 @@ More broadly, this research provides a foundational tool for simulating other me
 
 {%
   include feature.html
-  image="images/research-ultra-cg.png"
+  image="images/research-ultra-cg.jpg"
   link="research"
   title="Ultra-coarse-grained simulations of protein self-assembly"
   text=text
