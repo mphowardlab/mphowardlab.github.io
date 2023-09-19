@@ -15,7 +15,7 @@ Our research addresses this problem by engineering a novel computational approac
 
 This work not only advances the fundamental understanding of self-assembly but also offers a broadly applicable tool for designing nanocrystals superlattices to solve engineering challenges in many fields. 
 
-
+[See our publications!](../../publications/?search=inverse+design)
 {% endcapture %}
 
 {%
