@@ -1,6 +1,6 @@
 ---
 name: C. Levi Petix
-image: images/levi-petix.jpg
+image: images/petix-levi.jpg
 role: candidate
 links:
   email: clp0093@auburn.edu

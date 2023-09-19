@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acs.jctc.3c00651
+  title: Surrogate Modeling of the Relative Entropy for Inverse Design Using Smolyak
+    Sparse Grids
+  authors:
+  - C. Levi Petix
+  - Mohamamdreza Fakhraei
+  - Chris A. Kieslich
+  - Michael P. Howard
+  publisher: Journal of Chemical Theory and Computation
+  date: '2023-09-13'
+  link: https://doi.org/gsqm4r
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jpcb.3c00830
   title: Role of Strong Localized vs Weak Distributed Interactions in Disordered Protein
     Phase Separation
