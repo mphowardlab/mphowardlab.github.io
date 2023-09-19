@@ -20,8 +20,8 @@
   subtitle: 
   group: featured
   image: images/research-ultra-cg.png
-  link: 
-  description: 
+  link: research/ultra-coarse-graining
+  description: This research explores efficient routes to enable dynamic simulations of viral capsid self-assembly
   repo: 
   tags:
 
