@@ -1,16 +1,31 @@
 ---
-title: Non-equilibrium simulations
+title: Nonequilibrium self-assembly of nanomaterials
 
 ---
 
 {% include section.html %}
-<!--  -->
+
 {% capture text %}
+Materials made by assembling nanoparticles into larger structures are important
+for numerous technologies, ranging from consumer products such as paints to
+advanced materials used for catalysis or photonics. Typically these materials
+are made by dispersing the nanoparticles in a solvent at low concentrations,
+then removing the solvent to solidify them. The final self-assembled structure
+of the nanoparticles, and its corresponding material properties, can depend
+sensitively on how the nanoparticle dispersion is processed. This is especially
+true when the dispersion contains multiple types of nanoparticles.
 
-<!-- Add text -->
-Nanoparticles or colloidal dispersions play a vital role in our daily lives. Various useful products, from paints to catalysts, can be produced using colloidal dispersions. If a dispersion has different types of particles, various aspects can be controlled to make it self-assemble into desired structures. One such aspect we are controlling in this study is solvent evaporation. Solvent evaporation allows us to create self-assembled coatings and supraparticles cheaply and efficiently. However, it is hard to know what combination of parameters, such as evaporation rate, particle sizes, initial film or droplet length, etc., would result in the desired structure when using the solvent evaporation method.
+We are particularly interested in using the evaporation of the solvent itself to
+create materials coatings or bigger "supraparticles" with composition gradients
+cheaply and efficiently. However, it is hard to know what combination of
+parameters, such as evaporation rate or nanoparticle size/chemistry will
+produced the desired structure after the solvent is removed.
 
-In this research, we use different kinds of simulation techniques to understand the thermodynamic and transport properties of the solvent evaporation-driven self-assembly process. Understanding parameters would allow us to the tune necessary parameters to establish various novel structures in various geometries such as films, droplets, etc. 
+We are using different simulation methods, including both particle-based and
+continuum-level modeling, to understand how thermodynamic and transport effects
+influence evaporation-driven self-assembly. Our ultimate goal is to
+computationally design conditions that produce a targeted self-assembled
+structure.
 
 [See our publications!](../../publications/?search=Colloidal+suspensions)
 {% endcapture %}
@@ -18,8 +33,6 @@ In this research, we use different kinds of simulation techniques to understand 
 {%
   include feature.html
   image="images/stratified.jpeg"
-  link="research"
   title="Nonequilibrium self-assembly of nanomaterials "
   text=text
 %}
-<!--  -->

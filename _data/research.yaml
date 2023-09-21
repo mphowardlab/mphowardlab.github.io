@@ -1,35 +1,35 @@
 - title: Nonequilibrium self-assembly of nanomaterials
-  subtitle: 
+  subtitle:
   group: featured
   image: images/stratified.jpeg
   link: research/nonequilibrium-self-assembly
-  description:  This research involves modeling and designing solvent evaporation driven self-assembly of colloidal dispersions 
-  repo: 
+  description: This research involves modeling and designing solvent evaporation driven self-assembly of colloidal dispersions.
+  repo:
   tags:
 
-- title:  Inverse design of plasmonic nanocrystal superlattices 
+- title: Inverse design of plasmonic nanocrystal superlattices
   subtitle:
   group: featured
   image: images/software.png
-  link: 
-  description: 
-  repo: 
+  link:
+  description:
+  repo:
   tags:
 
 - title: Ultra-coarse-grained simulations of protein self-assembly
-  subtitle: 
+  subtitle:
   group: featured
   image: images/software.png
-  link: 
-  description: 
-  repo: 
+  link:
+  description:
+  repo:
   tags:
 
 - title: Multicomponent transport in hydrated polymer membranes
   subtitle:
   group: featured
   image: images/software.png
-  link: 
-  description: 
-  repo: 
+  link:
+  description:
+  repo:
   tags:
