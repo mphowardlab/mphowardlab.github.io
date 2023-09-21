@@ -4,7 +4,7 @@
 $logo-big: 80px;
 $logo: 40px;
 $big-padding: 100px;
-$collapse: 700px;
+$collapse: 800px;
 $limit-title: 400px;
 $sticky: true;
 
@@ -120,6 +120,25 @@ nav > a:hover {
   color: var(--primary);
 }
 
+header:not([data-big]) {
+  @media (max-width: $collapse) {
+    justify-content: flex-end;
+
+    .nav-toggle {
+      display: flex;
+    }
+
+    .nav-toggle:not(:checked) + nav {
+      display: none;
+    }
+
+    nav {
+      align-items: flex-end;
+      flex-direction: column;
+      width: 100%;
+    }
+  }
+}
 
 @media (max-width: $limit-title) {
   .title > *:first-child {
