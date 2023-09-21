@@ -16,6 +16,24 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
+  
+  @media (max-width: $collapse) {
+    justify-content: flex-end;
+
+    .nav-toggle {
+      display: flex;
+    }
+
+    .nav-toggle:not(:checked) + nav {
+      display: none;
+    }
+
+    nav {
+      align-items: flex-end;
+      flex-direction: column;
+      width: 100%;
+    }
+  }
 
   @if $sticky {
     position: sticky !important;
@@ -120,25 +138,6 @@ nav > a:hover {
   color: var(--primary);
 }
 
-header:not([data-big]) {
-  @media (max-width: $collapse) {
-    justify-content: flex-end;
-
-    .nav-toggle {
-      display: flex;
-    }
-
-    .nav-toggle:not(:checked) + nav {
-      display: none;
-    }
-
-    nav {
-      align-items: flex-end;
-      flex-direction: column;
-      width: 100%;
-    }
-  }
-}
 
 @media (max-width: $limit-title) {
   .title > *:first-child {
