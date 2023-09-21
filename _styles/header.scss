@@ -120,58 +120,6 @@ nav > a:hover {
   color: var(--primary);
 }
 
-header:not([data-big]) {
-  @media (max-width: $collapse) {
-    justify-content: flex-end;
-
-    .nav-toggle {
-      display: flex;
-    }
-
-    .nav-toggle:not(:checked) + nav {
-      display: none;
-    }
-
-    nav {
-      align-items: flex-end;
-      flex-direction: column;
-      width: 100%;
-    }
-  }
-}
-
-header[data-big] {
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
-  padding: 20px;
-
-  @if $sticky {
-    top: unset;
-  }
-
-  .home {
-    flex-direction: row;
-  }
-
-  .logo {
-    height: $logo-big;
-  }
-
-  .title {
-    flex-direction: row;
-    align-items: center;
-    text-align: center;
-  }
-
-  .title > *:first-child {
-    font-size: var(--xxxl);
-  }
-
-  .title > *:last-child {
-    font-size: var(--large);
-  }
-}
 
 @media (max-width: $limit-title) {
   .title > *:first-child {
