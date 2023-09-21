@@ -10,6 +10,22 @@ header {
   top: 0;
   z-index: 10 !important;
 }
+@media (max-width: 800px) {
+  header {
+    justify-content: flex-end;
+  }
+  header .nav-toggle {
+    display: flex;
+  }
+  header .nav-toggle:not(:checked) + nav {
+    display: none;
+  }
+  header nav {
+    align-items: flex-end;
+    flex-direction: column;
+    width: 100%;
+  }
+}
 
 header[data-dark=true] {
   box-shadow: none;
@@ -103,23 +119,6 @@ nav > a {
 
 nav > a:hover {
   color: var(--primary);
-}
-
-@media (max-width: 800px) {
-  header:not([data-big]) {
-    justify-content: flex-end;
-  }
-  header:not([data-big]) .nav-toggle {
-    display: flex;
-  }
-  header:not([data-big]) .nav-toggle:not(:checked) + nav {
-    display: none;
-  }
-  header:not([data-big]) nav {
-    align-items: flex-end;
-    flex-direction: column;
-    width: 100%;
-  }
 }
 
 @media (max-width: 400px) {
