@@ -15,7 +15,7 @@ To address this challenge, our research, in collaboration with Dr. Kieslich, int
 More broadly, this research provides a foundational tool for simulating other mesoscale phenomena, including the self-assembly of synthetic materials. 
 
 
-
+[See our publications!](../../publications/?search=surrogate+modeling)
 
 
 {% endcapture %}
