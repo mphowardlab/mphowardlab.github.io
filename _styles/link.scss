@@ -10,3 +10,7 @@ a {
 a:hover {
   color: var(--primary);
 }
+
+a:not([href]) {
+  color: var(--text);
+}
