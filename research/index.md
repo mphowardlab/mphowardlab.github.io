@@ -101,7 +101,7 @@ application!
 {%
   include figure.html
   image="images/research-ultra-cg.jpg"
-  caption="Surrogate model for ultra coarse-graining."
+  caption="Surrogate model for ultra coarse-graining [source](https://pdb101.rcsb.org/motm/109)."
   width="300px"
 %}
 {% endcapture %}
