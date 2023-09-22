@@ -1,35 +1,26 @@
-- title: Nonequilibrium self-assembly of nanomaterials
-  subtitle: 
+- title: Drying-induced nanoparticle self-assembly
+  subtitle:
   group: featured
-  image: images/software.png
-  link: research/nonequilibrium-self-assembly
-  description: 
-  repo: 
+  image: images/stratified.jpeg
+  link: research#drying-induced-nanoparticle-self-assembly
+  description:
+  repo:
   tags:
 
-- title:  Inverse design of plasmonic nanocrystal superlattices 
+- title: Inverse design of plasmonic nanocrystal superlattices
   subtitle:
   group: featured
   image: images/software.png
-  link: 
-  description: 
-  repo: 
+  link:
+  description:
+  repo:
   tags:
 
-- title: Ultra-coarse-grained simulations of protein self-assembly
-  subtitle: 
-  group: featured
-  image: images/software.png
-  link: 
-  description: 
-  repo: 
-  tags:
-
-- title: Multicomponent transport in hydrated polymer membranes
+- title: Ultra-coarse-grained protein simulations
   subtitle:
   group: featured
   image: images/software.png
-  link: 
-  description: 
-  repo: 
+  link:
+  description:
+  repo:
   tags:
