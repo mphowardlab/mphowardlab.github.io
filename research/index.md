@@ -37,14 +37,14 @@ its corresponding material properties, can depend sensitively on how the
 nanoparticle dispersion is processed. This is especially true when the
 dispersion contains multiple types of nanoparticles.
 
-We are interested in using solvent evaporation to cheaply and efficiently create
+We are interested in using solvent drying to cheaply and efficiently create
 nanoparticle coatings or bigger "supraparticles" that have controlled
 composition gradients. However, it is currently hard to know what combination of
-parameters, such as evaporation rate or nanoparticle chemistry, will produced
+parameters, such as drying rate or nanoparticle chemistry, will produced
 the desired structure after the solvent is removed. We are using different
 simulation methods, including both particle-based and continuum-level modeling,
 to understand how thermodynamic and transport considerations influence
-evaporation-driven self-assembly. Our ultimate goal is to computationally design
+drying-induced self-assembly. Our ultimate goal is to computationally design
 conditions that produce a targeted self-assembled structure.
 
 This material is based upon work supported by the National Science Foundation
