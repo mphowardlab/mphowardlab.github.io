@@ -1,6 +1,6 @@
 ---
 name: Brennan Hall
-image: images/brennan-hall.jpg
+image: images/hall-brennan.jpg
 role: undergrad
 links:
   email: bth0033@auburn.edu

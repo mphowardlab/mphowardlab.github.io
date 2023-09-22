@@ -10,9 +10,6 @@
   class="background"
   style="--image: url('{{ image }}')"
   data-dark="{{ dark }}"
-  {% if page.url == "/" %}
-    data-big
-  {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
