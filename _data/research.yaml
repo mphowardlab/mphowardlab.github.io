@@ -20,7 +20,7 @@
   subtitle:
   group: featured
   image: images/research-ultra-cg.jpg
-  link: research/ultra-coarse-graining
+  link: research#ultra-coarse-grained-simulations-of-protein-self-assembly
   description:
   repo:
   tags:
