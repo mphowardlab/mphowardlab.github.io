@@ -93,3 +93,39 @@ calculations. We anticipate relentless will be broadly useful beyond our own
 application!
 
 [Read more in our publications on inverse design.](../../publications/?search=inverse+design)
+
+
+{% include section.html %}
+## Ultra-coarse-grained simulations of protein self-assembly
+{% capture content %}
+{%
+  include figure.html
+  image="images/research-ultra-cg.jpg"
+  caption="Methodology for ultra coarse-graining [[source]](https://pdb101.rcsb.org/motm/109)."
+  width="300px"
+%}
+{% endcapture %}
+
+{%
+   include float.html
+   content=content
+%}
+Capsids are container-like structures made from proteins that form a protective
+shell around a virus's genetic material. Self-assembly of the capsid plays a
+critical role in the virus life cycle, and understanding the dynamics of this
+process may provide an avenue for designing therapeutics. However,
+characterizing the dynamic pathway of capsid self-assembly is challenging to for
+experiments, but the length and time scales of this process exceed current
+capabilities of atomistic molecular dynamics.
+
+To address this challenge, we are working with Dr. Chris Kieslich to develop a
+computationally efficient ultra-coarse-grained model, representing each capsid
+protein as a single coarse-grained particle, so that we can simulate capsid
+assembly from protein solutions at unprecedented scales. Our approach
+systematically integrates surrogate modeling, sparse sampling, and statistical
+mechanics for coarse graining to efficiently compute an accurate approximation
+of the pairwise potential of mean force and torque.
+
+This work is supported by Auburn University's Research Support Program.
+
+[Read more in our publications on surrogate modeling.](../../publications/?search=surrogate+modeling)

@@ -19,8 +19,8 @@
 - title: Ultra-coarse-grained protein simulations
   subtitle:
   group: featured
-  image: images/software.png
-  link:
+  image: images/research-ultra-cg.jpg
+  link: research#ultra-coarse-grained-simulations-of-protein-self-assembly
   description:
   repo:
   tags:
