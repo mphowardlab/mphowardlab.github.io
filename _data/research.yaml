@@ -1,9 +1,9 @@
-- title: Nonequilibrium self-assembly of nanomaterials
+- title: Drying-induced nanoparticle self-assembly
   subtitle:
   group: featured
   image: images/stratified.jpeg
-  link: research/nonequilibrium-self-assembly
-  description: This research involves modeling and designing solvent evaporation driven self-assembly of colloidal dispersions.
+  link: research#drying-induced-nanoparticle-self-assembly
+  description:
   repo:
   tags:
 
@@ -16,16 +16,7 @@
   repo:
   tags:
 
-- title: Ultra-coarse-grained simulations of protein self-assembly
-  subtitle:
-  group: featured
-  image: images/software.png
-  link:
-  description:
-  repo:
-  tags:
-
-- title: Multicomponent transport in hydrated polymer membranes
+- title: Ultra-coarse-grained protein simulations
   subtitle:
   group: featured
   image: images/software.png
