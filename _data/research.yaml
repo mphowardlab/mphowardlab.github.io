@@ -7,11 +7,11 @@
   repo:
   tags:
 
-- title: Inverse design of plasmonic nanocrystal superlattices
+- title: Multiscale inverse design of nanocrystal superlattices
   subtitle:
   group: featured
-  image: images/software.png
-  link:
+  image: images/inverse_design_figure.png
+  link: research#multiscale-inverse-design-of-nanocrystal-superlattices
   description:
   repo:
   tags:
