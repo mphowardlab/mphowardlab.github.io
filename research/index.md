@@ -6,8 +6,6 @@ nav:
 
 # {% include icon.html icon="fas fa-sitemap"%}Research
 
-We are working on some exciting projects! 
-
 {% include list.html component="card" data="research" filters="" style="small" %}
 
 {% include section.html %}
@@ -52,4 +50,46 @@ under Award No. 2223084. Any opinions, findings and conclusions or
 recommendations expressed in this material are those of the authors and do not
 necessarily reflect the views of the National Science Foundation.
 
-[Read more in our publications on drying-induced assembly.](../../publications/?search=Colloidal+suspensions)
+[Read more in our publications on drying-induced assembly.](../../publications/?search=colloidal+suspensions)
+
+
+{% include section.html %}
+## Multiscale inverse design of nanocrystal superlattices
+{% capture content %}
+{%
+  include figure.html
+  image="images/inverse_design_figure.png"
+  caption="Multiscale inverse design strategy."
+  width="300px"
+%}
+{% endcapture %}
+
+{%
+   include float.html
+   content=content
+   flip=true
+%}
+Due to their small sizes, nanocrystals have remarkable properties that make them
+promising components of advanced sensors and photocatalytic devices. The
+properties of individual nanocrystals can be enhanced and controlled by
+assembling them into larger ordered superlattices; however, there are limited
+scalable strategies for fabricating superlattices with low defect rates.
+
+We are computationally exploring a new solvent-based strategy to address this
+problem. Our computational approach couples particle-based simulations with
+optimization methods in an *inverse design* strategy that aims to determine
+physicochemical properties of the solvent and nanocrystals that cause the
+nanocrystals to self-assemble into a target superlattice. We aim to make
+computational predictions that can be directly tested in the laboratory, so we
+are actively developing inverse-design strategies to enable this connection,
+including:
+
+- Integrating atomistic and coarse-grained simulations in a single inverse design loop
+- Using data-driven (surrogate) models to accelerate optimization
+
+We have also developed a new software package,
+[relentless](https://relentless.readthedocs.io), to carry out our inverse design
+calculations. We anticipate relentless will be broadly useful beyond our own
+application!
+
+[Read more in our publications on inverse design.](../../publications/?search=inverse+design)
