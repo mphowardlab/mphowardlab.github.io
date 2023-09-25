@@ -75,7 +75,7 @@ reproducible science.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/software-feature.png"
   link="software"
   title="Our Software"
   text=text
