@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acs.langmuir.3c03410
+  title: Structure Formation in Supraparticles Composed of Spherical and Elongated
+    Particles
+  authors:
+  - Melis Yetkin
+  - Yashraj M. Wani
+  - Kritika Kritika
+  - Michael P. Howard
+  - Michael Kappl
+  - "Hans-J\xFCrgen Butt"
+  - Arash Nikoubashman
+  publisher: Langmuir
+  date: '2023-12-28'
+  link: https://doi.org/gtbngp
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsmacrolett.3c00505
   title: Confined Dynamics in Spherical Polymer Brushes
   authors:
