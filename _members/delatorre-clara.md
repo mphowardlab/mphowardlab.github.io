@@ -1,7 +1,7 @@
 ---
 name: Clara De La Torre
 image: images/delatorre-clara.jpg
-role: PhD student
+role: PhD
 links:
   email: czd0089@auburn.edu
 education:
