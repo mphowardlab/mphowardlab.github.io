@@ -31,6 +31,20 @@
   orcid: 0000-0002-9561-4165
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1039/D4SM00271G
+  title: Mesoscale simulations of diffusion and sedimentation in shape-anisotropic
+    nanoparticle suspensions
+  authors:
+  - Yashraj M. Wani
+  - Penelope Grace Kovakas
+  - Arash Nikoubashman
+  - Michael P. Howard
+  publisher: Soft Matter
+  date: '2024-01-01'
+  link: https://doi.org/gtsgkt
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsmacrolett.3c00505
   title: Confined Dynamics in Spherical Polymer Brushes
   authors:
