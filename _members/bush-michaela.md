@@ -1,7 +1,7 @@
 ---
 name: Michaela Bush
 image: images/bush-michaela.jpg
-role: phd
+role: candidate
 links:
   email: mzb0108@auburn.edu
 education:

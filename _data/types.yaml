@@ -12,11 +12,11 @@ postdoc:
 
 phd:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Ph.D. Student
 
 candidate:
   icon: fa-solid fa-graduation-cap
-  description: PhD Candidate
+  description: Ph.D. Candidate
 
 undergrad:
   icon: fa-solid fa-user-graduate
@@ -26,9 +26,13 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
-alumni:
+phd-alumni:
   icon: fa-solid fa-star
-  description: Alumni
+  description: Ph.D. Alumni
+
+undergrad-alumni:
+  icon: fa-solid fa-star
+  description: Undergraduate Alumni
 
 # general
 

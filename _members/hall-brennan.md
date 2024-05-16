@@ -1,13 +1,11 @@
 ---
 name: Brennan Hall
 image: images/hall-brennan.jpg
-role: undergrad
-links:
-  email: bth0033@auburn.edu
+role: undergrad-alumni
+education:
+  - Auburn University, B.S. in Chemical Engineering (2024)
 ---
 
-Brennan joined the lab in 2022 and currently works with Noah to investigate the
+Brennan worked in the lab from 2022-2024 to investigate the transport
 properties of alcohol and water mixtures, with a particular focus on diffusion
-coefficients and viscosity. The ultimate goal of his work is to understand
-multicomponent transport of such mixtures through polymer membranes. Brennan is
-pursuing an industry job in the energy field after graduation.
+coefficients and viscosity.
