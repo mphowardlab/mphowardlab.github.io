@@ -1,7 +1,7 @@
 ---
 name: C. Levi Petix
 image: images/petix-levi.jpg
-role: candidate
+role: phd-candidate
 links:
   email: clp0093@auburn.edu
   google-scholar: OPXa1coAAAAJ

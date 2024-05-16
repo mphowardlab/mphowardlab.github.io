@@ -1,7 +1,7 @@
 ---
 name: Matthew Do
 image: images/do-matthew.jpg
-role: undergrad-alumni
+role: undergrad-alum
 education:
   - Auburn University, B.S. in Chemical Engineering (2024)
   - Auburn University, B.S. in Computer Science (2024)

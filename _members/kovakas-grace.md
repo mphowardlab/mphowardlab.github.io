@@ -1,7 +1,7 @@
 ---
 name: Penelope Grace Kovakas
 image: images/kovakas-grace.jpg
-role: undergrad-alumni
+role: undergrad-alum
 links:
   google-scholar: BLrnaR4AAAAJ
   orcid: 0009-0005-7556-3953

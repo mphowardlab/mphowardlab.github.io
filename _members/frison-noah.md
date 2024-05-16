@@ -1,7 +1,7 @@
 ---
 name: Noah Frison
 image: images/frison-noah.jpg
-role: undergrad-alumni
+role: undergrad-alum
 education:
   - Auburn University, B.S. in Chemical Engineering (2024)
 ---
