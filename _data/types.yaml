@@ -10,25 +10,29 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+phd-candidate:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Ph.D. Candidate
 
-candidate:
+phd-student:
   icon: fa-solid fa-graduation-cap
-  description: PhD Candidate
+  description: Ph.D. Student
 
-undergrad:
+undergrad-student:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+postdoc-alum:
+  icon: fa-solid fa-glasses
+  description: Postdoctoral Researcher Alum
 
-alumni:
+phd-alum:
   icon: fa-solid fa-star
-  description: Alumni
+  description: Ph.D. Alum
+
+undergrad-alum:
+  icon: fa-solid fa-star
+  description: Undergraduate Alum
 
 # general
 

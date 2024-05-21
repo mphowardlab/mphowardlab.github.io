@@ -1,7 +1,7 @@
 ---
 name: Mohammadreza Fakhraei
 image: images/fakhraei-mohammadreza.jpg
-role: candidate
+role: phd-candidate
 links:
   email: mzf0069@auburn.edu
   google-scholar: 1ulVRxgAAAAJ

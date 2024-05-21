@@ -8,10 +8,11 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: candidate" %}
-{% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: ^pi$" %}
+{% include list.html data="members" component="portrait" filters="role: ^postdoc$" %}
+{% include list.html data="members" component="portrait" filters="role: phd-candidate" %}
+{% include list.html data="members" component="portrait" filters="role: phd-student" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad-student" %}
 
 {% include section.html dark=true %}
 
@@ -27,4 +28,6 @@ environment that enhances our research collaboration and goals.
 {% include section.html %}
 ## Alumni
 
-{% include list.html data="members" component="portrait" filters="role: alumni" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc-alum" %}
+{% include list.html data="members" component="portrait" filters="role: phd-alum" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad-alum" %}

@@ -1,7 +1,7 @@
 ---
 name: Jinny Cha
 image: images/cha-jinny.jpg
-role: phd
+role: phd-student
 links:
   email: jzc0159@auburn.edu
 education:
