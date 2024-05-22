@@ -1,7 +1,7 @@
 ---
 name: Luke Cravey
 image: images/cravey-luke.jpg
-role: undergrad
+role: undergrad-student
 links:
 email: tlc0053@auburn.edu
 ---
