@@ -1,5 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.18260/2-1-370.660-132213
+  title: Using A Virtual-Reality Activity to Enrich Nanoscale Concepts in Chemical
+    Engineering
+  authors:
+  - Michael P. Howard
+  publisher: Chemical Engineering Education
+  date: '2024-01-01'
+  link: https://doi.org/gt4w5g
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jctc.3c00651
   title: Surrogate Modeling of the Relative Entropy for Inverse Design Using Smolyak
     Sparse Grids
