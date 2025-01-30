@@ -18,6 +18,10 @@ phd-student:
   icon: fa-solid fa-graduation-cap
   description: Ph.D. Student
 
+ms-student:
+  icon: fa-solid fa-book
+  description: M.S. Student
+
 undergrad-student:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
@@ -29,6 +33,10 @@ postdoc-alum:
 phd-alum:
   icon: fa-solid fa-star
   description: Ph.D. Alum
+
+ms-alum:
+  icon: fa-solid fa-star
+  description: M.S. Alum
 
 undergrad-alum:
   icon: fa-solid fa-star

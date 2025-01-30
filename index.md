@@ -30,10 +30,9 @@ to engineering challenges in soft materials.
 
 {% capture text %}
 
-We are a team of individuals working together to achieve our research goals. We
-value the unique experiences and perspectives that everyone brings to their work.
-As a team, we strive to become technically outstanding chemical engineers and to
-help build a more inclusive workforce in computational molecular science.
+We are an active group of graduate and undergraduate researchers working together 
+to make an impact. We strive to become technically outstanding engineers and to 
+develop the future workforce in computational material sciences.
 
 {%
   include button.html
