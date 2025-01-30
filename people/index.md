@@ -12,6 +12,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ^postdoc$" %}
 {% include list.html data="members" component="portrait" filters="role: phd-candidate" %}
 {% include list.html data="members" component="portrait" filters="role: phd-student" %}
+{% include list.html data="members" component="portrait" filters="role: masters-student" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad-student" %}
 
 {% include section.html dark=true %}
@@ -30,4 +31,5 @@ environment that enhances our research collaboration and goals.
 
 {% include list.html data="members" component="portrait" filters="role: postdoc-alum" %}
 {% include list.html data="members" component="portrait" filters="role: phd-alum" %}
+{% include list.html data="members" component="portrait" filters="role: masters-alum" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad-alum" %}
