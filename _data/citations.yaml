@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acs.jpcb.4c05674
+  title: Dynamics of Nanoparticles in Solutions of Semiflexible Ring Polymers
+  authors:
+  - Shivraj B. Kotkar
+  - Ryan Poling-Skutvik
+  - Michael P. Howard
+  - Arash Nikoubashman
+  - Jacinta C. Conrad
+  - Jeremy C. Palmer
+  publisher: The Journal of Physical Chemistry B
+  date: '2024-12-06'
+  link: https://doi.org/g83nn6
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0233683
+  title: 'relentless: Transparent, reproducible molecular dynamics simulations for
+    optimization'
+  authors:
+  - Adithya N Sreenivasan
+  - C. Levi Petix
+  - Zachary M. Sherman
+  - Michael P. Howard
+  publisher: The Journal of Chemical Physics
+  date: '2024-12-04'
+  link: https://doi.org/g83nn7
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.18260/2-1-370.660-132213
   title: Using A Virtual-Reality Activity to Enrich Nanoscale Concepts in Chemical
     Engineering
