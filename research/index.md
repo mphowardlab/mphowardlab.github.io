@@ -70,7 +70,7 @@ necessarily reflect the views of the National Science Foundation.
    flip=true
 %}
 Due to their small sizes, nanocrystals have remarkable properties that make them
-promising components of advanced sensors and photocatalytic devices. The
+promising components of advanced sensors. The
 properties of individual nanocrystals can be enhanced and controlled by
 assembling them into larger ordered superlattices; however, there are limited
 scalable strategies for fabricating superlattices with low defect rates.
