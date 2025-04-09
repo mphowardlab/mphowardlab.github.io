@@ -47,7 +47,7 @@ develop the future workforce in computational material sciences.
 
 {%
   include feature.html
-  image="images/2022-10-group.jpg"
+  image="images/2025-02-group.jpg"
   link="people"
   title="Our Team"
   flip=true
