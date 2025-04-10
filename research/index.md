@@ -136,7 +136,7 @@ This work is supported by Auburn University's Research Support Program.
 {%
   include figure.html
   image="images/research-elastic-turbulence.jpg"
-  caption="Placeholder caption."
+  caption="Flow through an expansion."
   width="300px"
 %}
 {% endcapture %}
@@ -151,7 +151,7 @@ method has a surprisingly high recovery efficiency that is believed to be caused
 by a flow instability called elastic turbulence and is known to depend on the 
 architecture and chemistry of the polymers. We are using dissipative particle 
 dynamics and multiparticle collision dynamics simulations to study the molecular 
-mechanisms that underly elastic turbulence. Our long-term of goal is to 
+mechanisms that underly elastic turbulence. Our long-term goal is to 
 rationally engineer better polymers for flooding processes.
 
 This work is supported by the donors of ACS Petroleum Research Fund under Grant 66616-DNI9.
