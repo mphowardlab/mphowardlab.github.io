@@ -129,3 +129,32 @@ of the pairwise potential of mean force and torque.
 This work is supported by Auburn University's Research Support Program.
 
 [Read more in our publications on surrogate modeling.](../../publications/?search=surrogate+modeling)
+
+{% include section.html %}
+## Elastic turbulence in branched and associating polymer solutions
+{% capture content %}
+{%
+  include figure.html
+  image="images/research-elastic-turbulence.jpg"
+  caption="Flow through an expansion."
+  width="300px"
+%}
+{% endcapture %}
+
+{%
+   include float.html
+   content=content
+%}
+Polymer flooding is an enhanced oil recovery method that uses solutions of 
+high-molecular-weight polymers to displace oil trapped in reservoirs. This 
+method has a surprisingly high recovery efficiency that is believed to be caused 
+by a flow instability called elastic turbulence and is known to depend on the 
+architecture and chemistry of the polymers. We are using dissipative particle 
+dynamics and multiparticle collision dynamics simulations to study the molecular 
+mechanisms that underly elastic turbulence. Our long-term goal is to 
+rationally engineer better polymers for flooding processes.
+
+This work is supported by the donors of ACS Petroleum Research Fund under Grant 66616-DNI9.
+
+[Read more in our publications on elastic turbulence.](../../publications/?search=elastic+turbulence)
+
