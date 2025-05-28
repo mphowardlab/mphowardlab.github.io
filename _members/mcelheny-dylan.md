@@ -1,7 +1,7 @@
 ---
 name: Dylan McElheny
 image: images/mcelheny-dylan.jpg
-role: undergrad
+role: undergrad-student
 links:
   email: drm0066@auburn.edu
 ---
