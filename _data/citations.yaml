@@ -205,22 +205,6 @@
   orcid: 0000-0002-9561-4165
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.07.04.498718
-  title: Effect of Charge Distribution on the Dynamics of Polyampholytic Disordered
-    Proteins
-  authors:
-  - Dinesh Sundaravadivelu Devarajan
-  - Shiv Rekhi
-  - Arash Nikoubashman
-  - Young C. Kim
-  - Michael P. Howard
-  - Jeetain Mittal
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-07-04'
-  link: https://doi.org/gr2vcm
-  orcid: 0000-0002-9561-4165
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1063/5.0075002
   title: Diffusion and sedimentation in colloidal suspensions using multiparticle
     collision dynamics with a discrete particle model
