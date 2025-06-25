@@ -37,7 +37,7 @@
 - title: lammpsio
   subtitle:
   group: featured
-  image: images/software.png
+  image: images/lammpsio_icon.png
   link: https://github.com/mphowardlab/lammpsio
   description: lammpsio is a set of pure Python tools for working with LAMMPS data and dump files.
   repo: 
