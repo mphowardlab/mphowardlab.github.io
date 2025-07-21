@@ -1,5 +1,47 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acs.jpcb.5c01451
+  title: Approximation of Anisotropic Pair Potentials Using Multivariate Interpolation
+  authors:
+  - Mohammadreza Fakhraei
+  - Chris A. Kieslich
+  - Michael P. Howard
+  publisher: The Journal of Physical Chemistry B
+  date: '2025-06-27'
+  link: https://doi.org/g9tpzc
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0260883
+  title: Exploring the role of hydrodynamic interactions in spherically confined drying
+    colloidal suspensions
+  authors:
+  - Mayukh Kundu
+  - Kritika Kritika
+  - Yashraj M. Wani
+  - Arash Nikoubashman
+  - Michael P. Howard
+  publisher: The Journal of Chemical Physics
+  date: '2025-04-18'
+  link: https://doi.org/g9mf2h
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D4SM01301H
+  title: Effects of ligand <i>vs.</i> linker on phase behavior and mechanical properties
+    of nanoparticle gels
+  authors:
+  - Qizan Chen
+  - Dinesh Sundaravadivelu Devarajan
+  - Arash Nikoubashman
+  - Michael P. Howard
+  - Jeetain Mittal
+  publisher: Soft Matter
+  date: '2025-01-01'
+  link: https://doi.org/g9mf2j
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jpcb.4c05674
   title: Dynamics of Nanoparticles in Solutions of Semiflexible Ring Polymers
   authors:
@@ -172,22 +214,6 @@
   publisher: Membranes
   date: '2022-09-27'
   link: https://doi.org/gr2vck
-  orcid: 0000-0002-9561-4165
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.07.04.498718
-  title: Effect of Charge Distribution on the Dynamics of Polyampholytic Disordered
-    Proteins
-  authors:
-  - Dinesh Sundaravadivelu Devarajan
-  - Shiv Rekhi
-  - Arash Nikoubashman
-  - Young C. Kim
-  - Michael P. Howard
-  - Jeetain Mittal
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-07-04'
-  link: https://doi.org/gr2vcm
   orcid: 0000-0002-9561-4165
   plugin: orcid.py
   file: orcid.yaml
