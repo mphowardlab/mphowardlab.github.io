@@ -157,4 +157,57 @@ rationally engineer better polymers for flooding processes.
 This work is supported by the donors of ACS Petroleum Research Fund under Grant 66616-DNI9.
 
 [Read more in our publications on elastic turbulence.](../../publications/?search=elastic+turbulence)
+## Materials optimization for advanced bus technologies
+{% capture content %}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Placeholder figure."
+  width="300px"
+%}
+{% endcapture %}
 
+{%
+   include float.html
+   content=content
+%}
+There is an opportunity to improve the performance and economics of advanced bus 
+technologies by engineering their components. For example, the HVAC system can 
+be the second-largest energy consumer in electric buses¬, and a significant portion 
+of the energy consumed by the HVAC system is lost through windows and structural 
+panels. Minimizing such losses may be an opportunity to decrease operating costs 
+and downtime. We are using computational heat-transfer models to understand heat
+ losses through components of advanced transit-bus technologies. The model will 
+ incorporate material properties of bus components that are being systematically 
+ measured by Dr. Bryan Beckingham and Dr. Cassandra Porter. We are also conducting 
+ a sensitivity analysis for the different climates found throughout the United 
+ States. This work will enable optimization of and improved decision-making about 
+ materials used in advanced bus technologies.
+
+[Read more in our publications on materials for advanced bus technologies.](../../publications/?search=bus)
+## Molecular simulations of multicomponent transport in polymer membranes
+{% capture content %}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Placeholder figure."
+  width="300px"
+%}
+{% endcapture %}
+
+{%
+   include float.html
+   content=content
+%}
+Polymer membranes are an important separations technology for the chemical 
+industry. A key engineering goal is to increase membrane selectivity to desired 
+solutes while maximizing permeability. However, selectivity and permeability are 
+controlled by transport phenomena that are poorly understood for industrially 
+relevant multicomponent mixtures, in which molecular-scale interactions can 
+nontrivially enhance or inhibit transport compared to binary mixtures. Traditional 
+experimental approaches for characterizing multicomponent membrane-based 
+separations yield limited information about these interactions, so we are using 
+atomistic molecular dynamics simulations to better understanding them using binary 
+and ternary alcohol–water mixtures as a platform fluid.
+
+[Read more in our publications on multicomponent transport in polymer membranes.](../../publications/?search=polymer+membranes)
