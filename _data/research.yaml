@@ -33,3 +33,21 @@
   description:
   repo:
   tags:
+
+- title: Materials optimization for advanced bus technologies
+  subtitle:
+  group: featured
+  image: images/photo.jpg
+  link: research#materials-optimization-for-advanced-bus-technologies
+  description:
+  repo:
+  tags:
+
+- title: Molecular simulations of multicomponent transport in polymer membranes
+  subtitle:
+  group: featured
+  image: images/photo.jpg
+  link: research#molecular-simulations-of-multicomponent-transport-in-polymer-membranes
+  description:
+  repo:
+  tags:
