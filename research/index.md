@@ -157,7 +157,7 @@ rationally engineer better polymers for flooding processes.
 This work is supported by the donors of ACS Petroleum Research Fund under Grant 66616-DNI9.
 
 [Read more in our publications on elastic turbulence.](../../publications/?search=elastic+turbulence)
-## Materials optimization for advanced bus technologies
+## Materials optimization for advanced bus technologies-
 {% capture content %}
 {%
   include figure.html
