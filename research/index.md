@@ -211,3 +211,25 @@ atomistic molecular dynamics simulations to better understanding them using bina
 and ternary alcohol–water mixtures as a platform fluid.
 
 [Read more in our publications on multicomponent transport in polymer membranes.](../../publications/?search=polymer+membranes)
+## Multiparticle Collision Dynamics
+{% capture content %}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Placeholder figure."
+  width="300px"
+%}
+{% endcapture %}
+
+{%
+   include float.html
+   content=content
+%}
+Simulating the behavior of soft materials, such as nanoparticles or polymers, suspended in a solvent is critical for addressing numerous challenges, including improving the efficiency of wastewater treatment technologies, processing advanced materials for energy applications, and effectively delivering drugs to the body. Solvent-mediated hydrodynamic interactions typically play an important role, but the solvent is difficult to model at relevant scales because of its significantly smaller size than the suspended materials. Multiparticle collision dynamics (MPCD) is a mesoscopic, particle-based simulation method that can flexibly address this challenge. We previously developed open-source MPCD software in HOOMD-blue with parallelization for both CPUs and GPUs, and we are currently working on key features needed to support new science and engineering, including:
+* A more convenient and faster approach for modeling nanoparticle suspensions using rigid body dynamics
+* Expanded capabilities for modeling complex boundaries as triangulated surfaces
+* Methods for simulating rheology, including Lees–Edwards boundary conditions, reverse nonequilibrium simulations, and wall-driven flows.
+This material is based upon work support by the National Science Foundation under Award No. 2310724.
+
+
+[Read more in our publications on multiparticle collision dynamics.](../../publications/?search=multiparticle+collision+dynamics)
