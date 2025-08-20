@@ -1,7 +1,7 @@
 ---
 name: Clara De La Torre
 image: images/delatorre-clara.jpg
-role: ms-student
+role: ms-alum
 links:
   email: czd0089@auburn.edu
 education:
@@ -9,6 +9,6 @@ education:
 ---
 
 Clara joined the lab in 2023.
-Clara's research is understanding the effects of polymer architecture
+Clara's research focused on understanding the effects of polymer architecture
 and hydrophobic association on elastic turbulence in enhanced oil
 recovery.
