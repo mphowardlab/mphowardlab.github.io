@@ -215,7 +215,7 @@ and ternary alcohol–water mixtures as a platform fluid.
 {% capture content %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/research-mpcd.jpg"
   caption="Placeholder figure."
   width="300px"
 %}
