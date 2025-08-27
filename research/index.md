@@ -211,7 +211,7 @@ atomistic molecular dynamics simulations to better understanding them using bina
 and ternary alcohol–water mixtures as a platform fluid.
 
 [Read more in our publications on multicomponent transport in polymer membranes.](../../publications/?search=polymer+membranes)
-## Multiparticle Collision Dynamics
+## Simulation of hydrodynamic interactions in soft materials
 {% capture content %}
 {%
   include figure.html
