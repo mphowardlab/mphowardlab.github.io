@@ -161,8 +161,8 @@ This work is supported by the donors of ACS Petroleum Research Fund under Grant 
 {% capture content %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Placeholder figure."
+  image="images/research-transportation.jpg"
+  caption="Heat transfer in a bus."
   width="300px"
 %}
 {% endcapture %}
@@ -189,8 +189,8 @@ and downtime. We are using computational heat-transfer models to understand heat
 {% capture content %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Placeholder figure."
+  image="images/research-multicomp-diff.jpg"
+  caption="Molecules passing through a membrane."
   width="300px"
 %}
 {% endcapture %}
@@ -216,7 +216,7 @@ and ternary alcohol–water mixtures as a platform fluid.
 {%
   include figure.html
   image="images/research-mpcd.jpg"
-  caption="Placeholder figure."
+  caption="Nanoparticle on triangulated surface."
   width="300px"
 %}
 {% endcapture %}
