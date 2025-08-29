@@ -7,6 +7,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}People
 
 {% include section.html %}
+## Current
 
 {% include list.html data="members" component="portrait" filters="role: ^pi$" %}
 {% include list.html data="members" component="portrait" filters="role: ^postdoc$" %}
@@ -15,17 +16,6 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ms-student" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad-student" %}
 
-{% include section.html dark=true %}
-
-We aim to have strong relationships among our team members. To achieve this,
-we take occasional breaks to socialize and unwind, to build a supportive work
-environment that enhances our research collaboration and goals. 
-
-{% include section.html %}
-
-{% include slideshow.html data="group_photos" filters="" %}
-
-
 {% include section.html %}
 ## Alumni
 
@@ -33,3 +23,13 @@ environment that enhances our research collaboration and goals.
 {% include list.html data="members" component="portrait" filters="role: phd-alum" %}
 {% include list.html data="members" component="portrait" filters="role: ms-alum" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad-alum" %}
+
+{% include section.html dark=true %}
+
+We aim to have strong relationships among our team and to foster a supportive
+work environment that enhances our collaboration. To achieve this, we take
+occasional breaks to socialize and unwind!  
+
+{% include section.html %}
+
+{% include slideshow.html data="group_photos" filters="" %}

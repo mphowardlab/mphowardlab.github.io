@@ -5,9 +5,8 @@
 
 {% capture text %}
 
-We use multiscale modeling, computer simulations, and fundamental chemical
-engineering concepts to develop new scientific understanding and solutions
-to engineering challenges in soft materials.
+We use multiscale modeling and computer simulations to shorten the time and
+reduce the cost of designing soft materials
 
 {%
   include button.html
@@ -22,7 +21,7 @@ to engineering challenges in soft materials.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research-overview.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -30,9 +29,9 @@ to engineering challenges in soft materials.
 
 {% capture text %}
 
-We are an active group of graduate and undergraduate researchers working together 
-to make an impact. We strive to become technically outstanding engineers and to 
-develop the future workforce in computational material sciences.
+We are an active group of graduate and undergraduate researchers. We strive to
+become technically outstanding engineers and to develop the future workforce of
+computational scientists.
 
 {%
   include button.html
@@ -57,9 +56,8 @@ develop the future workforce in computational material sciences.
 
 {% capture text %}
 
-We develop new scientific software to enable our own work and to support other
-researchers in our community. We aim to create more open, accessible, and
-reproducible science.
+We develop new software to enable our own work and to support other researchers
+in our community. We aim to create more open and reproducible science.
 
 {%
   include button.html

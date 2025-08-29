@@ -8,6 +8,6 @@ education:
   - Auburn University, B.S. in Chemical Engineering
 ---
 
-Michaela joined the lab in 2021 and is co-advised by Dr. Chris Kieslich.
-Michaela's research is developing surrogate modeling strategies, based on the
-Smolyak sparse grid approach, for optimization of complex black-box functions.
+Michaela joined the lab in 2021. She is developing our open-source multiparticle
+colision dynamics software in HOOMD-blue to more efficiently simulate
+nanoparticle suspensions.

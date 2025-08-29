@@ -7,11 +7,11 @@
   repo:
   tags:
 
-- title: Multiscale inverse design of nanocrystal superlattices
+- title: Simulation of hydrodynamic interactions in soft materials
   subtitle:
   group: featured
-  image: images/inverse_design_figure.png
-  link: research#multiscale-inverse-design-of-nanocrystal-superlattices
+  image: images/research-mpcd.jpg
+  link: research#simulation-of-hydrodynamic-interactions-in-soft-materials
   description:
   repo:
   tags:
@@ -30,6 +30,33 @@
   group: featured
   image: images/research-elastic-turbulence.jpg
   link: research#elastic-turbulence-in-branched-and-associating-polymer-solutions
+  description:
+  repo:
+  tags:
+
+- title: Molecular simulations of multicomponent transport in polymer membranes
+  subtitle:
+  group: featured
+  image: images/research-multicomp-diff.jpg
+  link: research#molecular-simulations-of-multicomponent-transport-in-polymer-membranes
+  description:
+  repo:
+  tags:
+
+- title: Multiscale inverse design of nanocrystal superlattices
+  subtitle:
+  group: featured
+  image: images/inverse_design_figure.png
+  link: research#multiscale-inverse-design-of-nanocrystal-superlattices
+  description:
+  repo:
+  tags:
+
+- title: Materials optimization for advanced bus technologies
+  subtitle:
+  group: featured
+  image: images/research-transportation.jpg
+  link: research#materials-optimization-for-advanced-bus-technologies
   description:
   repo:
   tags:
