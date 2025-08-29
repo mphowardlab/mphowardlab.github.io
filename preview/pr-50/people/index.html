@@ -680,113 +680,6 @@
   
   
 
-  <section class="background" data-size="1" data-dark="true">
-    <!--
-  background: ;
-  dark: true;
-  size: 1;
--->
-
-<p>We aim to have strong relationships among our team and to foster a supportive
-work environment that enhances our collaboration. To achieve this, we take
-occasional breaks to socialize and unwind!</p>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page" data-dark="">
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-<div class="slideshow">
-  <div class="slideshow-container">
-    
-    <div class="mySlides fade">
-      <img src="/preview/pr-50/images/2025-03-pi-day.jpg">
-      <div class="text">Pi day (2025)</div>
-    </div>
-    
-    <div class="mySlides fade">
-      <img src="/preview/pr-50/images/2024-07-FOMMS.jpg">
-      <div class="text">Jinny and Clara at FOMMS (2024)</div>
-    </div>
-    
-    <div class="mySlides fade">
-      <img src="/preview/pr-50/images/2024-06-BBQ.jpg">
-      <div class="text">Summer BBQ (2024)</div>
-    </div>
-    
-    <div class="mySlides fade">
-      <img src="/preview/pr-50/images/2024-04-ASEF.jpg">
-      <div class="text">Alabama Science and Engineering Fair (2024)</div>
-    </div>
-    
-    <a class="prev" onclick="plusSlides(-1)">❮</a>
-    <a class="next" onclick="plusSlides(1)">❯</a>
-  </div>
-  <br>
-  
-  <span class="dot" onclick="currentSlide(0)"></span>
-  
-  <span class="dot" onclick="currentSlide(1)"></span>
-  
-  <span class="dot" onclick="currentSlide(2)"></span>
-  
-  <span class="dot" onclick="currentSlide(3)"></span>
-  
-</div>
-
-<script>
-  let slideIndex = 0;
-  let timeoutId = null;
-  const slides = document.getElementsByClassName("mySlides");
-  const dots = document.getElementsByClassName("dot");
-  
-  showSlides();
-  function currentSlide(index) {
-        slideIndex = index;
-        showSlides();
-  }
-  function plusSlides(step) {
-    
-    if(step < 0) {
-        slideIndex -= 2;
-        
-        if(slideIndex < 0) {
-          slideIndex = slides.length - 1;
-        }
-    }
-    
-    showSlides();
-  }
-  function showSlides() {
-    for(let i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-      dots[i].classList.remove('active');
-    }
-    slideIndex++;
-    if(slideIndex > slides.length) {
-      slideIndex = 1
-    }
-    slides[slideIndex - 1].style.display = "block";
-    dots[slideIndex - 1].classList.add('active');
-      if(timeoutId) {
-        clearTimeout(timeoutId);
-      }
-    timeoutId = setTimeout(showSlides, 8000); // Change image every 8 seconds
-  }
-</script>
-  </section>
-
-  
-  
-  
-
   <section class="background" data-size="page" data-dark="">
     <!--
   background: ;
@@ -963,6 +856,113 @@ occasional breaks to socialize and unwind!</p>
     
   </a>
 </div>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="1" data-dark="true">
+    <!--
+  background: ;
+  dark: true;
+  size: 1;
+-->
+
+<p>We aim to have strong relationships among our team and to foster a supportive
+work environment that enhances our collaboration. To achieve this, we take
+occasional breaks to socialize and unwind!</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page" data-dark="">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<div class="slideshow">
+  <div class="slideshow-container">
+    
+    <div class="mySlides fade">
+      <img src="/preview/pr-50/images/2025-03-pi-day.jpg">
+      <div class="text">Pi day (2025)</div>
+    </div>
+    
+    <div class="mySlides fade">
+      <img src="/preview/pr-50/images/2024-07-FOMMS.jpg">
+      <div class="text">Jinny and Clara at FOMMS (2024)</div>
+    </div>
+    
+    <div class="mySlides fade">
+      <img src="/preview/pr-50/images/2024-06-BBQ.jpg">
+      <div class="text">Summer BBQ (2024)</div>
+    </div>
+    
+    <div class="mySlides fade">
+      <img src="/preview/pr-50/images/2024-04-ASEF.jpg">
+      <div class="text">Alabama Science and Engineering Fair (2024)</div>
+    </div>
+    
+    <a class="prev" onclick="plusSlides(-1)">❮</a>
+    <a class="next" onclick="plusSlides(1)">❯</a>
+  </div>
+  <br>
+  
+  <span class="dot" onclick="currentSlide(0)"></span>
+  
+  <span class="dot" onclick="currentSlide(1)"></span>
+  
+  <span class="dot" onclick="currentSlide(2)"></span>
+  
+  <span class="dot" onclick="currentSlide(3)"></span>
+  
+</div>
+
+<script>
+  let slideIndex = 0;
+  let timeoutId = null;
+  const slides = document.getElementsByClassName("mySlides");
+  const dots = document.getElementsByClassName("dot");
+  
+  showSlides();
+  function currentSlide(index) {
+        slideIndex = index;
+        showSlides();
+  }
+  function plusSlides(step) {
+    
+    if(step < 0) {
+        slideIndex -= 2;
+        
+        if(slideIndex < 0) {
+          slideIndex = slides.length - 1;
+        }
+    }
+    
+    showSlides();
+  }
+  function showSlides() {
+    for(let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+      dots[i].classList.remove('active');
+    }
+    slideIndex++;
+    if(slideIndex > slides.length) {
+      slideIndex = 1
+    }
+    slides[slideIndex - 1].style.display = "block";
+    dots[slideIndex - 1].classList.add('active');
+      if(timeoutId) {
+        clearTimeout(timeoutId);
+      }
+    timeoutId = setTimeout(showSlides, 8000); // Change image every 8 seconds
+  }
+</script>
   </section>
 
 
