@@ -15,6 +15,14 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ms-student" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad-student" %}
 
+{% include section.html %}
+## Alumni
+
+{% include list.html data="members" component="portrait" filters="role: postdoc-alum" %}
+{% include list.html data="members" component="portrait" filters="role: phd-alum" %}
+{% include list.html data="members" component="portrait" filters="role: ms-alum" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad-alum" %}
+
 {% include section.html dark=true %}
 
 We aim to have strong relationships among our team and to foster a supportive
@@ -24,12 +32,3 @@ occasional breaks to socialize and unwind!
 {% include section.html %}
 
 {% include slideshow.html data="group_photos" filters="" %}
-
-
-{% include section.html %}
-## Alumni
-
-{% include list.html data="members" component="portrait" filters="role: postdoc-alum" %}
-{% include list.html data="members" component="portrait" filters="role: phd-alum" %}
-{% include list.html data="members" component="portrait" filters="role: ms-alum" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad-alum" %}
