@@ -6,6 +6,6 @@ links:
   email: drm0066@auburn.edu
 ---
 
-Dylan joined the lab in Spring 2025 as an undergraduate researcher working 
-with Mohammadreza to use surrogate modeling to approximate pairwise interactions 
-of proteins. 
+Dylan joined the lab in 2025 as an undergraduate researcher working with
+Mohammadreza to use surrogate modeling to approximate pairwise interactions of
+proteins. 

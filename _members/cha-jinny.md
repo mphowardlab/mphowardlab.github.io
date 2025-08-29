@@ -1,7 +1,7 @@
 ---
 name: Jinny Cha
 image: images/cha-jinny.jpg
-role: phd-student
+role: phd-candidate
 links:
   email: jzc0159@auburn.edu
 education:
@@ -9,5 +9,5 @@ education:
 ---
 
 Jinny joined the lab in 2023. She is developing our open-source multiparticle 
-coliision dynamics software in HOOMD-blue to include complex confining
+colision dynamics software in HOOMD-blue to include complex confining
 boundaries.
