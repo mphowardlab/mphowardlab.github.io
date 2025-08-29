@@ -468,14 +468,14 @@
 </div>
 
 <div class="card" data-style="small">
-  <a href="/research#multiscale-inverse-design-of-nanocrystal-superlattices" class="card-image">
-    <img src="/images/inverse_design_figure.png" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  <a href="/research#simulation-of-hydrodynamic-interactions-in-soft-materials" class="card-image">
+    <img src="/images/research-mpcd.jpg" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
   <div class="card-text">
     
-      <a href="/research#multiscale-inverse-design-of-nanocrystal-superlattices" class="card-title">
-        Multiscale inverse design of nanocrystal superlattices
+      <a href="/research#simulation-of-hydrodynamic-interactions-in-soft-materials" class="card-title">
+        Simulation of hydrodynamic interactions in soft materials
       </a>
     
 
@@ -516,6 +516,66 @@
     
       <a href="/research#elastic-turbulence-in-branched-and-associating-polymer-solutions" class="card-title">
         Elastic turbulence in branched and associating polymer solutions
+      </a>
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+
+<div class="card" data-style="small">
+  <a href="/research#molecular-simulations-of-multicomponent-transport-in-polymer-membranes" class="card-image">
+    <img src="/images/research-multicomp-diff.jpg" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="/research#molecular-simulations-of-multicomponent-transport-in-polymer-membranes" class="card-title">
+        Molecular simulations of multicomponent transport in polymer membranes
+      </a>
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+
+<div class="card" data-style="small">
+  <a href="/research#multiscale-inverse-design-of-nanocrystal-superlattices" class="card-image">
+    <img src="/images/inverse_design_figure.png" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="/research#multiscale-inverse-design-of-nanocrystal-superlattices" class="card-title">
+        Multiscale inverse design of nanocrystal superlattices
+      </a>
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+
+<div class="card" data-style="small">
+  <a href="/research#materials-optimization-for-advanced-bus-technologies" class="card-image">
+    <img src="/images/research-transportation.jpg" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="/research#materials-optimization-for-advanced-bus-technologies" class="card-title">
+        Materials optimization for advanced bus technologies
       </a>
     
 
@@ -575,19 +635,220 @@ dispersion contains multiple types of nanoparticles.</p>
 <p>We are interested in using solvent drying to cheaply and efficiently create
 nanoparticle coatings or bigger “supraparticles” that have controlled
 composition gradients. However, it is currently hard to know what combination of
-parameters, such as drying rate or nanoparticle chemistry, will produced
-the desired structure after the solvent is removed. We are using different
-simulation methods, including both particle-based and continuum-level modeling,
-to understand how thermodynamic and transport considerations influence
-drying-induced self-assembly. Our ultimate goal is to computationally design
-conditions that produce a targeted self-assembled structure.</p>
+parameters, such as drying rate or nanoparticle chemistry, will produce the
+desired structure after the solvent is removed. We are using different
+simulation methods, including both particle-based simulations, continuum-level
+modeling, and machine learning, to understand how thermodynamic and transport
+considerations influence drying-induced self-assembly. Our ultimate goal is to
+computationally design conditions that produce a targeted self-assembled
+structure.</p>
 
 <p>This material is based upon work supported by the National Science Foundation
-under Award No. 2223084. Any opinions, findings and conclusions or
+under Award Nos. 2223084 and 2442526. Any opinions, findings and conclusions or
 recommendations expressed in this material are those of the authors and do not
 necessarily reflect the views of the National Science Foundation.</p>
+  </section>
 
-<p><a href="../../publications/?search=colloidal+suspensions">Read more in our publications on drying-induced assembly.</a></p>
+  
+  
+  
+
+  <section class="background" data-size="page" data-dark="">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="simulation-of-hydrodynamic-interactions-in-soft-materials">Simulation of hydrodynamic interactions in soft materials</h2>
+
+<div class="float">
+  
+<figure class="figure">
+  <a href="" class="figure-link">
+    <img src="/images/research-mpcd.jpg" class="figure-image" alt="Nanoparticle on triangulated surface." title="Nanoparticle on triangulated surface." style="
+        width: 300px;
+        max-height: unset;
+      " loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      Nanoparticle on triangulated surface.
+
+    </figcaption>
+  
+</figure>
+
+
+</div>
+
+<p>Simulating the behavior of soft materials, such as nanoparticles or polymers,
+suspended in a solvent is critical for addressing numerous challenges, including
+improving the efficiency of wastewater treatment technologies, processing
+advanced materials for energy applications, and effectively delivering drugs to
+the body. Solvent-mediated hydrodynamic interactions typically play an important
+role, but the solvent is difficult to model at relevant scales because of its
+significantly smaller size than the suspended materials. Multiparticle collision
+dynamics (MPCD) is a mesoscopic, particle-based simulation method that can
+flexibly address this challenge. We previously developed open-source MPCD
+software in HOOMD-blue with parallelization for both CPUs and GPUs, and we are
+currently working on key features needed to support new science and engineering,
+including:</p>
+<ul>
+  <li>A more convenient and faster approach for modeling nanoparticle suspensions
+using rigid body dynamics</li>
+  <li>Expanded capabilities for modeling complex boundaries as triangulated surfaces</li>
+  <li>Methods for simulating rheology, including Lees–Edwards boundary conditions,
+reverse nonequilibrium simulations, and wall-driven flows.</li>
+</ul>
+
+<p>This material is based upon work support by the National Science Foundation
+under Award Nos. 2310724 and 2310725. Any opinions, findings and conclusions or
+recommendations expressed in this material are those of the authors and do not
+necessarily reflect the views of the National Science Foundation.</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page" data-dark="">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="ultra-coarse-grained-simulations-of-protein-self-assembly">Ultra-coarse-grained simulations of protein self-assembly</h2>
+
+<div class="float">
+  
+<figure class="figure">
+  <a href="" class="figure-link">
+    <img src="/images/research-ultra-cg.jpg" class="figure-image" alt="Methodology for ultra coarse-graining [[source]](https://pdb101.rcsb.org/motm/109)." title="Methodology for ultra coarse-graining [[source]](https://pdb101.rcsb.org/motm/109)." style="
+        width: 300px;
+        max-height: unset;
+      " loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      Methodology for ultra coarse-graining <a href="https://pdb101.rcsb.org/motm/109">[source]</a>.
+
+    </figcaption>
+  
+</figure>
+
+
+</div>
+
+<p>Capsids are container-like structures made from proteins that form a protective
+shell around a virus’s genetic material. Self-assembly of the capsid plays a
+critical role in the virus life cycle, and understanding the dynamics of this
+process may provide an avenue for designing therapeutics. However,
+characterizing the dynamic pathway of capsid self-assembly is challenging to for
+experiments, but the length and time scales of this process exceed current
+capabilities of atomistic molecular dynamics.</p>
+
+<p>To address this challenge, we are working with Dr. Chris Kieslich to develop a
+computationally efficient ultra-coarse-grained model, representing each capsid
+protein as a single coarse-grained particle, so that we can simulate capsid
+assembly from protein solutions at unprecedented scales. Our approach
+systematically integrates surrogate modeling, sparse sampling, and statistical
+mechanics for coarse graining to efficiently compute an accurate approximation
+of the pairwise potential of mean force and torque.</p>
+
+<p>This work was supported by Auburn University’s Research Support Program.</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page" data-dark="">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="elastic-turbulence-in-branched-and-associating-polymer-solutions">Elastic turbulence in branched and associating polymer solutions</h2>
+
+<div class="float">
+  
+<figure class="figure">
+  <a href="" class="figure-link">
+    <img src="/images/research-elastic-turbulence.jpg" class="figure-image" alt="Flow through an expansion." title="Flow through an expansion." style="
+        width: 300px;
+        max-height: unset;
+      " loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      Flow through an expansion.
+
+    </figcaption>
+  
+</figure>
+
+
+</div>
+
+<p>Polymer flooding is an enhanced oil recovery method that uses solutions of
+high-molecular-weight polymers to displace oil trapped in reservoirs. This
+method has a surprisingly high recovery efficiency that is believed to be caused
+by a flow instability called elastic turbulence and is known to depend on the
+architecture and chemistry of the polymers. We are using dissipative particle
+dynamics and multiparticle collision dynamics simulations to study the molecular
+mechanisms that underly elastic turbulence. Our long-term goal is to rationally
+engineer better polymers for flooding processes.</p>
+
+<p>Acknowledgment is made to the donors of the American Chemical Society
+Petroleum Research Fund for support of this research (Grant No. 66616-DNI9).</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page" data-dark="">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="molecular-simulations-of-multicomponent-transport-in-polymer-membranes">Molecular simulations of multicomponent transport in polymer membranes</h2>
+
+<div class="float">
+  
+<figure class="figure">
+  <a href="" class="figure-link">
+    <img src="/images/research-multicomp-diff.jpg" class="figure-image" alt="Molecules passing through a membrane." title="Molecules passing through a membrane." style="
+        width: 300px;
+        max-height: unset;
+      " loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      Molecules passing through a membrane.
+
+    </figcaption>
+  
+</figure>
+
+
+</div>
+
+<p>Polymer membranes are an important separations technology for the chemical
+industry. A key engineering goal is to increase membrane selectivity to desired
+solutes while maximizing permeability. However, selectivity and permeability are
+controlled by transport phenomena that are poorly understood for industrially
+relevant multicomponent mixtures, in which molecular-scale interactions can
+nontrivially enhance or inhibit transport compared to binary mixtures.
+Traditional experimental approaches for characterizing multicomponent
+membrane-based separations yield limited information about these interactions,
+so we are using atomistic molecular dynamics simulations to better understanding
+them using binary and ternary alcohol–water mixtures as a platform fluid.</p>
   </section>
 
   
@@ -647,8 +908,6 @@ including:</p>
 <a href="https://relentless.readthedocs.io">relentless</a>, to carry out our inverse design
 calculations. We anticipate relentless will be broadly useful beyond our own
 application!</p>
-
-<p><a href="../../publications/?search=inverse+design">Read more in our publications on inverse design.</a></p>
   </section>
 
   
@@ -662,20 +921,20 @@ application!</p>
   size: ;
 -->
 
-<h2 id="ultra-coarse-grained-simulations-of-protein-self-assembly">Ultra-coarse-grained simulations of protein self-assembly</h2>
+<h2 id="materials-optimization-for-advanced-bus-technologies">Materials optimization for advanced bus technologies</h2>
 
 <div class="float">
   
 <figure class="figure">
   <a href="" class="figure-link">
-    <img src="/images/research-ultra-cg.jpg" class="figure-image" alt="Methodology for ultra coarse-graining [[source]](https://pdb101.rcsb.org/motm/109)." title="Methodology for ultra coarse-graining [[source]](https://pdb101.rcsb.org/motm/109)." style="
+    <img src="/images/research-transportation.jpg" class="figure-image" alt="Heat transfer in a bus." title="Heat transfer in a bus." style="
         width: 300px;
         max-height: unset;
       " loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
   
     <figcaption class="figure-caption">
-      Methodology for ultra coarse-graining <a href="https://pdb101.rcsb.org/motm/109">[source]</a>.
+      Heat transfer in a bus.
 
     </figcaption>
   
@@ -684,72 +943,21 @@ application!</p>
 
 </div>
 
-<p>Capsids are container-like structures made from proteins that form a protective
-shell around a virus’s genetic material. Self-assembly of the capsid plays a
-critical role in the virus life cycle, and understanding the dynamics of this
-process may provide an avenue for designing therapeutics. However,
-characterizing the dynamic pathway of capsid self-assembly is challenging to for
-experiments, but the length and time scales of this process exceed current
-capabilities of atomistic molecular dynamics.</p>
+<p>There is an opportunity to improve the performance and economics of advanced bus
+technologies by engineering their components. For example, the HVAC system can
+be the second-largest energy consumer in electric buses¬, and a significant
+portion of the energy consumed by the HVAC system is lost through windows and
+structural panels. Minimizing such losses may be an opportunity to decrease
+operating costs and downtime. We are using computational heat-transfer models to
+understand heat losses through components of advanced transit-bus technologies.
+The model will incorporate material properties of bus components that are being
+systematically measured by Dr. Bryan Beckingham and Dr. Cassandra Porter. We are
+also conducting a sensitivity analysis for the different climates found
+throughout the United States. This work will enable optimization of and improved
+decision-making about materials used in advanced bus technologies.</p>
 
-<p>To address this challenge, we are working with Dr. Chris Kieslich to develop a
-computationally efficient ultra-coarse-grained model, representing each capsid
-protein as a single coarse-grained particle, so that we can simulate capsid
-assembly from protein solutions at unprecedented scales. Our approach
-systematically integrates surrogate modeling, sparse sampling, and statistical
-mechanics for coarse graining to efficiently compute an accurate approximation
-of the pairwise potential of mean force and torque.</p>
-
-<p>This work is supported by Auburn University’s Research Support Program.</p>
-
-<p><a href="../../publications/?search=surrogate+modeling">Read more in our publications on surrogate modeling.</a></p>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page" data-dark="">
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-<h2 id="elastic-turbulence-in-branched-and-associating-polymer-solutions">Elastic turbulence in branched and associating polymer solutions</h2>
-
-<div class="float">
-  
-<figure class="figure">
-  <a href="" class="figure-link">
-    <img src="/images/research-elastic-turbulence.jpg" class="figure-image" alt="Flow through an expansion." title="Flow through an expansion." style="
-        width: 300px;
-        max-height: unset;
-      " loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-    <figcaption class="figure-caption">
-      Flow through an expansion.
-
-    </figcaption>
-  
-</figure>
-
-
-</div>
-
-<p>Polymer flooding is an enhanced oil recovery method that uses solutions of 
-high-molecular-weight polymers to displace oil trapped in reservoirs. This 
-method has a surprisingly high recovery efficiency that is believed to be caused 
-by a flow instability called elastic turbulence and is known to depend on the 
-architecture and chemistry of the polymers. We are using dissipative particle 
-dynamics and multiparticle collision dynamics simulations to study the molecular 
-mechanisms that underly elastic turbulence. Our long-term goal is to 
-rationally engineer better polymers for flooding processes.</p>
-
-<p>This work is supported by the donors of ACS Petroleum Research Fund under Grant 66616-DNI9.</p>
-
-<p><a href="../../publications/?search=elastic+turbulence">Read more in our publications on elastic turbulence.</a></p>
+<p>This work is supported by the Federal Transit Administration (Low- and
+No-Emission Component Assessment Program).</p>
   </section>
 
 
