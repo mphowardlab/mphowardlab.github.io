@@ -17,9 +17,9 @@ nav:
 
 {% include section.html dark=true %}
 
-We aim to have strong relationships among our team members. To achieve this,
-we take occasional breaks to socialize and unwind, to build a supportive work
-environment that enhances our research collaboration and goals. 
+We aim to have strong relationships among our team and to foster a supportive
+work environment that enhances our collaboration. To achieve this, we take
+occasional breaks to socialize and unwind!  
 
 {% include section.html %}
 
