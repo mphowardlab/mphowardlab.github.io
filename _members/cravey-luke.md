@@ -6,6 +6,6 @@ education:
   - Auburn University, B.S. in Chemical Engineering (2025)
 ---
 
-Luke worked in the lab an undergraduate researcher in Summer 2024 with Mayukh
+Luke was part of the lab as an undergraduate researcher in Summer 2024 with Mayukh
 through the CASE REU. He modeled the thermodynamics and self-assembly of patchy 
 colloids.

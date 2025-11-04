@@ -9,7 +9,7 @@ education:
   - Auburn University, B.S. in Chemical Engineering (2024)
 ---
 
-Grace joined the lab as its first undergraduate researcher in 2021 and worked in
+Grace joined the lab as its first undergraduate researcher in 2021 and was part of the
 the lab until 2024. She simulated the diffusion and sedimentation of spherical
 and shape-anisotropic nanoparticles using the multiparticle collision dynamics
 method to model hydrodynamic interactions. She was awarded an undergraduate
