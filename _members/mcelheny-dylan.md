@@ -6,4 +6,4 @@ links:
   email: drm0066@auburn.edu
 ---
 
-Dylan joined the lab in 2025 as an undergraduate researcher. Him and Mohammadreza are currently studying surrogate modeling to approximate pairwise interactions of proteins. 
+Dylan joined the lab in 2025 as an undergraduate researcher. He and Mohammadreza are currently studying surrogate models to approximate pairwise interactions of proteins. 
