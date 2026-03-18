@@ -1,5 +1,76 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1063/5.0307665
+  title: Effects of skewing collision cells on transport properties in multiparticle
+    collision dynamics simulations
+  authors:
+  - Jinny Cha
+  - Wilfred Kwabena Darko
+  - Jeremy C. Palmer
+  - Michael P. Howard
+  publisher: The Journal of Chemical Physics
+  date: '2026-03-06'
+  link: https://doi.org/hbs2gt
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D5ME00129C
+  title: Design of simple interactions to assemble complex crystals from binary mixtures
+    of colloidal particles
+  authors:
+  - Beth Hsiao-Yen Wei
+  - C. Levi Petix
+  - Qizan Chen
+  - Michael P. Howard
+  - Jeetain Mittal
+  publisher: Molecular Systems Design &amp; Engineering
+  date: '2026-01-01'
+  link: https://doi.org/hbs2gv
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21105/joss.08962
+  title: 'lammpsio: Transparent and reproducible handling of LAMMPS particle data
+    in Python'
+  authors:
+  - C. Levi Petix
+  - Mayukh Kundu
+  - Michael P. Howard
+  publisher: Journal of Open Source Software
+  date: '2025-12-21'
+  link: https://doi.org/hbs2gw
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0302659
+  title: Inverse design of drying-induced assembly of multicomponent colloidal-particle
+    films using surrogate models
+  authors:
+  - Mayukh Kundu
+  - Michaela Bush
+  - Chris A. Kieslich
+  - Michael P. Howard
+  publisher: The Journal of Chemical Physics
+  date: '2025-12-10'
+  link: https://doi.org/hbhv7h
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0299726
+  title: "Mesoscale particle-based simulations of flow in expansion\u2013contraction\
+    \ microchannels at low Reynolds number"
+  authors:
+  - Tzortzis Koulaxizis
+  - Clara De La Torre Garcia
+  - C. Levi Petix
+  - Antonia Statt
+  - Michael P. Howard
+  publisher: The Journal of Chemical Physics
+  date: '2025-11-19'
+  link: https://doi.org/hbs2gx
+  orcid: 0000-0002-9561-4165
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jpcb.5c01451
   title: Approximation of Anisotropic Pair Potentials Using Multivariate Interpolation
   authors:
@@ -28,8 +99,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/D4SM01301H
-  title: Effects of ligand <i>vs.</i> linker on phase behavior and mechanical properties
-    of nanoparticle gels
+  title: "Effects of ligand\n                    <i>vs.</i>\n                    linker\
+    \ on phase behavior and mechanical properties of nanoparticle gels"
   authors:
   - Qizan Chen
   - Dinesh Sundaravadivelu Devarajan
