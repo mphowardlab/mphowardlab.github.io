@@ -242,5 +242,4 @@ also conducting a sensitivity analysis for the different climates found
 throughout the United States. This work will enable optimization of and improved
 decision-making about materials used in advanced bus technologies.
 
-This work is supported by the Federal Transit Administration (Low- and
-No-Emission Component Assessment Program).
+This work is supported by the Federal Transit Administration Component Assessment Program.
