@@ -5,7 +5,7 @@ role: phd-student
 links:
   email: aia0017@auburn.edu
 education:
-  - Ladoke Akintola University of Technology, B.Sc. Chemical Engineering
+  - Ladoke Akintola University of Technology (LAUTECH), B.Sc. Chemical Engineering
 
 ---
 
