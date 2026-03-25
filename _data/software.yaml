@@ -46,7 +46,7 @@
 - title: flyft
   subtitle:
   group: featured
-  image: images/software.png
+  image: images/flyft_icon.png
   link: https://github.com/mphowardlab/flyft
   description: flyft is a classical density functional theory solver.
   repo:
