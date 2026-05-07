@@ -7,5 +7,5 @@ links:
 ---
 
 Emilio joined the lab in 2026 as an undergraduate researcher. He and Benjamin are 
-currently investigating drying behavior of binary mixtures of big and small particle 
-suspension using different solvent models.
+currently investigating the drying behavior of binary mixtures of big and small particle 
+ssuspension using different solvent models.
