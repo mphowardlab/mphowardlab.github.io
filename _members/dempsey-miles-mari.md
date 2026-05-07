@@ -8,4 +8,6 @@ education:
   - Auburn University, B.S. in Chemical Engineering
 ---
 
-Mari Miles joined the lab in 2025 and is co-advised by Dr. Virginia Davis.
+Mari Miles joined the lab in 2025 and is co-advised by Dr. Virginia Davis. Her 
+research combines experimental and computational approaches to understand the 
+physical properties of anisotropic nanoparticles.
