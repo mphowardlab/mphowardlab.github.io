@@ -8,5 +8,5 @@ education:
   - Fill in
 ---
 
-Griffin joined the lab in 2025 as an undergraduate researcher. He and Levi studied the axial dispersion of polymers in microchannels. He was awarded an undergraduate research fellowship for to study nanocrystal stability in ionic liquids. 
+Griffin joined the lab in 2025 as an undergraduate researcher. He and Levi studied the axial dispersion of polymers in microchannels. He was awarded an undergraduate research fellowship to study nanocrystal stability in ionic liquids. 
 
