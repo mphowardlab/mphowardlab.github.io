@@ -8,4 +8,4 @@ education:
   - Auburn University, B.S. in Chemical Engineering
 ---
 
-Fill in. 
+Mari Miles joined the lab in 2025 and is co-advised by Dr. Virginia Davis.
