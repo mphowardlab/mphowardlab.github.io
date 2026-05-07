@@ -6,6 +6,6 @@ links:
   email: drm0066@auburn.edu
 ---
 
-Dylan was part of the lab in Fall 2025 and Spring 2026 as an undergraduate 
+Dylan was part of the lab from Spring 2025 to Spring 2026 as an undergraduate 
 researcher with Mohammadreza. He studied surrogate models to approximate pairwise 
-interactions of proteins. 
+interactions of peptides. 
