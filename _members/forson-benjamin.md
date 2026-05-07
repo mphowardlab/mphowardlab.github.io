@@ -1,7 +1,7 @@
 ---
 name: Benjamin Forson
 image: images/forson-benjamin.jpg
-role: phd-student
+role: phd-candidate
 links:
   email: bzf0037@auburn.edu
 education:

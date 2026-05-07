@@ -46,7 +46,7 @@ computational scientists.
 
 {%
   include feature.html
-  image="images/2025-02-group.jpg"
+  image="images/2026-04-group.jpg"
   link="people"
   title="Our Team"
   flip=true
